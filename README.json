@@ -210,7 +210,7 @@
             "last_commit": "2026-08-19T10:29:53Z",
             "owner": "froala",
             "repo": "wysiwyg-editor",
-            "stars": 5404
+            "stars": 5403
           }
         },
         {
@@ -834,7 +834,7 @@
             "archived": false,
             "id": 63350161,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:35:26Z",
+            "last_commit": "2026-08-19T11:39:02Z",
             "owner": "froala",
             "repo": "angular-froala-wysiwyg",
             "stars": 3
@@ -1245,7 +1245,7 @@
             "archived": false,
             "id": 66826712,
             "language": "JavaScript",
-            "last_commit": "2026-07-15T12:18:08Z",
+            "last_commit": "2026-08-19T11:26:41Z",
             "owner": "froala",
             "repo": "react-froala-wysiwyg",
             "stars": 1
@@ -1461,7 +1461,7 @@
             "archived": false,
             "id": 85857922,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T10:34:18Z",
+            "last_commit": "2026-08-19T11:47:00Z",
             "owner": "froala",
             "repo": "vue-froala-wysiwyg",
             "stars": 3
@@ -1566,7 +1566,7 @@
             "last_commit": "2026-08-11T13:16:44Z",
             "owner": "GrapesJS",
             "repo": "grapesjs",
-            "stars": 26142
+            "stars": 26144
           }
         },
         {
@@ -1709,8 +1709,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:58:14.333Z",
+    "last_updated": "2026-08-19T13:00:44.826Z",
     "original_repository": "JefMari/awesome-wysiwyg-editors",
+    "original_repository_id": 88997010,
     "original_repository_sha": "950d872bf48db27d61cb680452f7c742df2c0e06",
     "enhanced_repository": "enhansome/enhansome-wysiwyg-editors",
     "enhanced_repository_description": null,
