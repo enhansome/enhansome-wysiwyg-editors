@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T10:21:29Z",
             "owner": "ueberdosis",
             "repo": "tiptap",
-            "stars": 38141
+            "stars": 38144
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T10:40:31Z",
             "owner": "basecamp",
             "repo": "trix",
-            "stars": 20004
+            "stars": 20005
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 1529160,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T22:51:41Z",
+            "last_commit": "2026-08-24T12:38:13Z",
             "owner": "ether",
             "repo": "etherpad",
             "stars": 18503
@@ -90,7 +90,7 @@
             "last_commit": "2024-10-11T07:11:30Z",
             "owner": "wangeditor-team",
             "repo": "wangEditor",
-            "stars": 18362
+            "stars": 18361
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-10-24T07:27:48Z",
             "owner": "yabwe",
             "repo": "medium-editor",
-            "stars": 16105
+            "stars": 16104
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2024-05-12T17:09:57Z",
             "owner": "jaredreich",
             "repo": "pell",
-            "stars": 12047
+            "stars": 12046
           }
         },
         {
@@ -312,7 +312,7 @@
             "archived": false,
             "id": 715366,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T09:20:29Z",
+            "last_commit": "2026-08-24T11:51:24Z",
             "owner": "alohaeditor",
             "repo": "Aloha-Editor",
             "stars": 2488
@@ -516,7 +516,7 @@
             "last_commit": "2024-08-01T15:38:05Z",
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18012
+            "stars": 18011
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2026-04-15T11:09:18Z",
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11835
+            "stars": 11836
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2024-02-25T03:52:36Z",
             "owner": "mycolorway",
             "repo": "simditor",
-            "stars": 5005
+            "stars": 5004
           }
         },
         {
@@ -900,10 +900,10 @@
             "archived": false,
             "id": 225260962,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:58:43Z",
+            "last_commit": "2026-08-24T13:51:08Z",
             "owner": "udecode",
             "repo": "plate",
-            "stars": 16527
+            "stars": 16528
           }
         },
         {
@@ -918,7 +918,7 @@
             "last_commit": "2026-08-21T12:50:33Z",
             "owner": "puckeditor",
             "repo": "puck",
-            "stars": 13188
+            "stars": 13189
           }
         },
         {
@@ -930,7 +930,7 @@
             "archived": false,
             "id": 465199957,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:01:53Z",
+            "last_commit": "2026-08-24T13:54:38Z",
             "owner": "TypeCellOS",
             "repo": "BlockNote",
             "stars": 10117
@@ -960,7 +960,7 @@
             "archived": false,
             "id": 335402819,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:22:59Z",
+            "last_commit": "2026-08-24T12:36:10Z",
             "owner": "plasmicapp",
             "repo": "plasmic",
             "stars": 6969
@@ -1581,7 +1581,7 @@
             "last_commit": "2026-07-28T11:52:48Z",
             "owner": "react-page",
             "repo": "react-page",
-            "stars": 9545
+            "stars": 9544
           }
         },
         {
@@ -1709,7 +1709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:04:32.939Z",
+    "last_updated": "2026-08-24T13:58:49.036Z",
     "original_repository": "JefMari/awesome-wysiwyg-editors",
     "original_repository_id": 88997010,
     "original_repository_sha": "950d872bf48db27d61cb680452f7c742df2c0e06",
