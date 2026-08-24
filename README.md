@@ -23,19 +23,19 @@ English | [简体中文](./readme-zh-CN.md)
 
 WYSIWYG Editors that can be use without dependecy to other libraries or frameworks.
 
-* [Quill](https://github.com/slab/quill) ⭐ 47,307 | 🐛 658 | 🌐 TypeScript | 📅 2025-07-25 - A modern rich text editor built for compatibility and extensibility.
-* [tiptap](https://github.com/ueberdosis/tiptap) ⭐ 38,126 | 🐛 851 | 🌐 TypeScript | 📅 2026-08-20 - The headless editor framework for web artisans.
-* [Editor.js](https://github.com/codex-team/editor.js) ⭐ 31,903 | 🐛 702 | 🌐 TypeScript | 📅 2026-08-04 - A block-styled editor with clean JSON output.
-* [Trix](https://github.com/basecamp/trix) ⭐ 20,005 | 🐛 185 | 🌐 JavaScript | 📅 2026-08-21 - A rich text editor for everyday writing.
-* [Etherpad](https://github.com/ether/etherpad-lite) ⭐ 18,500 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-21 - Etherpad: Really real-time collaborative document editing.
+* [Quill](https://github.com/slab/quill) ⭐ 47,311 | 🐛 658 | 🌐 TypeScript | 📅 2025-07-25 - A modern rich text editor built for compatibility and extensibility.
+* [tiptap](https://github.com/ueberdosis/tiptap) ⭐ 38,141 | 🐛 861 | 🌐 TypeScript | 📅 2026-08-24 - The headless editor framework for web artisans.
+* [Editor.js](https://github.com/codex-team/editor.js) ⭐ 31,902 | 🐛 702 | 🌐 TypeScript | 📅 2026-08-04 - A block-styled editor with clean JSON output.
+* [Trix](https://github.com/basecamp/trix) ⭐ 20,004 | 🐛 185 | 🌐 JavaScript | 📅 2026-08-21 - A rich text editor for everyday writing.
+* [Etherpad](https://github.com/ether/etherpad-lite) ⭐ 18,503 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-23 - Etherpad: Really real-time collaborative document editing.
 * [wangEditor](https://github.com/wangeditor-team/wangEditor/blob/master/README-en.md) ⭐ 18,362 | 🐛 880 | 🌐 TypeScript | 📅 2024-10-11 - A lightweight rich text editor, friendly API and use extremely convenient. `💤 Inactive`
-* [TinyMCE](https://github.com/tinymce/tinymce) ⭐ 16,277 | 🐛 412 | 🌐 TypeScript | 📅 2026-08-17 - A JavaScript library for platform independent 'WYSIWYG' or rich text editing.
+* [TinyMCE](https://github.com/tinymce/tinymce) ⭐ 16,278 | 🐛 411 | 🌐 TypeScript | 📅 2026-08-17 - A JavaScript library for platform independent 'WYSIWYG' or rich text editing.
 * [Medium Editor](https://github.com/yabwe/medium-editor) ⭐ 16,105 | 🐛 359 | 🌐 JavaScript | 📅 2024-10-24 - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution. `💤 Inactive`
 * [Pell](https://github.com/jaredreich/pell) ⭐ 12,047 | 🐛 67 | 🌐 JavaScript | 📅 2024-05-12 - The simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies. `💤 Inactive`
-* [Milkdown](https://github.com/Milkdown/milkdown) ⭐ 11,845 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-22 - Plugin driven WYSIWYG markdown editor framework.
+* [Milkdown](https://github.com/Milkdown/milkdown) ⭐ 11,848 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-22 - Plugin driven WYSIWYG markdown editor framework.
 * [CKEditor 5](https://github.com/ckeditor/ckeditor5) ⭐ 10,479 | 🐛 747 | 🌐 JavaScript | 📅 2026-08-21 - A set of ready to use rich text editors created with a powerful framework.
 * [UEditor](https://github.com/fex-team/ueditor) ⚠️ Archived - UEditor is a WYSIWYG rich web editor developed by Baidu fex-team. It is lightweight, customizable, and user-oriented. `⛔ Deprecated`
-* [CKEditor 4](https://github.com/ckeditor/ckeditor4) ⭐ 5,821 | 🐛 1,184 | 🌐 Rich Text Format | 📅 2026-07-10 - Battle-tested WYSIWYG HTML editor. `💤 Inactive`
+* [CKEditor 4](https://github.com/ckeditor/ckeditor4) ⭐ 5,820 | 🐛 1,184 | 🌐 Rich Text Format | 📅 2026-07-10 - Battle-tested WYSIWYG HTML editor. `💤 Inactive`
 * [Froala Editor](https://github.com/froala/wysiwyg-editor) ⭐ 5,401 | 🐛 425 | 🌐 CSS | 📅 2026-08-19 `$ Non-Free ⊘ Proprietary` - A beautifuly designed WYSIWYG Rich Text Editor based on HTML5.
 * [Squire](https://github.com/fastmail/Squire) ⭐ 4,907 | 🐛 57 | 🌐 TypeScript | 📅 2026-06-09 - An HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
 * [Pen Editor](https://github.com/sofish/pen) ⭐ 4,795 | 🐛 65 | 🌐 JavaScript | 📅 2018-09-23 - Enjoy live editing (+markdown). `💤 Inactive`
@@ -43,14 +43,14 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 * [Content Tools](https://github.com/GetmeUK/ContentTools) ⭐ 3,979 | 🐛 101 | 🌐 JavaScript | 📅 2022-11-05 - A JS library for building WYSIWYG editors for HTML content. `💤 Inactive`
 * [Scribe](https://github.com/guardian/scribe) ⚠️ Archived - A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults. `⛔ Deprecated`
 * [wysihtml](https://github.com/Voog/wysihtml) ⭐ 3,349 | 🐛 180 | 🌐 JavaScript | 📅 2019-06-22 - Open source rich text editor for the modern web. `💤 Inactive`
-* [Aloha Editor](https://github.com/alohaeditor/Aloha-Editor) ⭐ 2,488 | 🐛 145 | 🌐 JavaScript | 📅 2026-08-21 - Aloha Editor is a JavaScript content editing library.
-* [SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,004 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-17 - Pure javascript based WYSIWYG html editor, with no dependencies.
-* [Jodit](https://github.com/xdan/jodit) ⭐ 1,951 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-22 - Rich HTML WYSIWYG Editor and FileBrowser. `💤 Inactive`
+* [Aloha Editor](https://github.com/alohaeditor/Aloha-Editor) ⭐ 2,488 | 🐛 145 | 🌐 JavaScript | 📅 2026-08-24 - Aloha Editor is a JavaScript content editing library.
+* [SunEditor](https://github.com/JiHong88/SunEditor) ⭐ 2,005 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-17 - Pure javascript based WYSIWYG html editor, with no dependencies.
+* [Jodit](https://github.com/xdan/jodit) ⭐ 1,953 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-22 - Rich HTML WYSIWYG Editor and FileBrowser. `💤 Inactive`
 * [Mobiledoc Kit](https://github.com/bustle/mobiledoc-kit) ⭐ 1,563 | 🐛 48 | 🌐 JavaScript | 📅 2026-01-16 - A toolkit for building WYSIWYG editors with Mobiledoc. `💤 Inactive`
 * [grande.js](https://github.com/mduvall/grande.js) ⭐ 1,299 | 🐛 25 | 🌐 JavaScript | 📅 2015-09-18 - It's a Medium at Starbucks. Pinky ring out. `💤 Inactive`
 * [SCEditor](https://github.com/samclarke/SCEditor) ⭐ 701 | 🐛 203 | 🌐 JavaScript | 📅 2026-02-14 - A lightweight WYSIWYG BBCode and XHTML editor.
 * [Domternal](https://github.com/domternal/domternal) ⭐ 198 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-22 - Lightweight, extensible rich text editor toolkit. Headless core with optional customizable toolbar and light & dark theme.
-* [g-editor](https://github.com/front/g-editor) ⭐ 195 | 🐛 11 | 🌐 JavaScript | 📅 2026-06-24 A minimalist version of [Wordpress Gutenberg's](https://github.com/Wordpress/gutenberg) ⭐ 11,753 | 🐛 7,584 | 🌐 JavaScript | 📅 2026-08-23 editor. Ideal for checking your custom blocks.
+* [g-editor](https://github.com/front/g-editor) ⭐ 195 | 🐛 11 | 🌐 JavaScript | 📅 2026-06-24 A minimalist version of [Wordpress Gutenberg's](https://github.com/Wordpress/gutenberg) ⭐ 11,750 | 🐛 7,545 | 🌐 JavaScript | 📅 2026-08-24 editor. Ideal for checking your custom blocks.
 * [web-component-designer](https://github.com/node-projects/web-component-designer) ⭐ 183 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-21 - A WYSIWYG Designer for webcomponents as a webcomponent. Live Demo: [here](https://node-projects.github.io/web-component-designer-demo/index.html)
 * [Adiptal Editor](https://github.com/adiptal/studio) ⭐ 92 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19 - `Free` & Upgradable to `$ Non-Free` - Adiptal Editor is an iframe-based WYSIWYG Editor built on JavaScript. With advanced features & custom elements, it gives clean output to design responsive pages. `💤 Inactive`
 * [Draftly](https://github.com/NeuroNexul/draftly) ⭐ 48 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-21 - A WYSIWYG Markdown editor that removes the barrier between writing and preview, while keeping the underlying Markdown accessible and editable. Being a Codemirror 6 Extension, this can be used with **any Framework**.
@@ -64,8 +64,8 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 
 jQuery required editors
 
-* [Toast UI Editor](https://github.com/nhn/tui.editor) ⭐ 18,009 | 🐛 643 | 🌐 TypeScript | 📅 2024-08-01 - Markdown WYSIWYG Editor - Productive and Extensible. `💤 Inactive`
-* [Summernote](https://github.com/summernote/summernote) ⭐ 11,833 | 🐛 118 | 🌐 JavaScript | 📅 2026-04-15 - Super simple WYSIWYG editor.
+* [Toast UI Editor](https://github.com/nhn/tui.editor) ⭐ 18,012 | 🐛 643 | 🌐 TypeScript | 📅 2024-08-01 - Markdown WYSIWYG Editor - Productive and Extensible. `💤 Inactive`
+* [Summernote](https://github.com/summernote/summernote) ⭐ 11,835 | 🐛 118 | 🌐 JavaScript | 📅 2026-04-15 - Super simple WYSIWYG editor.
 * [simditor](https://github.com/mycolorway/simditor) ⭐ 5,005 | 🐛 32 | 🌐 JavaScript | 📅 2024-02-25 - An Easy and Fast WYSIWYG Editor. `💤 Inactive`
 * [Trumbowyg](https://github.com/Alex-D/Trumbowyg) ⭐ 4,148 | 🐛 120 | 🌐 JavaScript | 📅 2026-06-20 - A lightweight and amazing WYSIWYG JavaScript editor - 20kB only (8kB gzip). `💤 Inactive`
 * [Dante Editor](https://github.com/michelson/Dante) ⭐ 2,041 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-23 - Just another Medium wysiwyg editor clone.
@@ -79,7 +79,7 @@ jQuery required editors
 
 Editors for your Angular-based project.
 
-* [textAngular](https://github.com/textAngular/textAngular) ⭐ 3,947 | 🐛 540 | 🌐 JavaScript | 📅 2023-09-20 - A radically powerful Text-Editor/Wysiwyg editor for Angular.js. `💤 Inactive`
+* [textAngular](https://github.com/textAngular/textAngular) ⭐ 3,946 | 🐛 540 | 🌐 JavaScript | 📅 2023-09-20 - A radically powerful Text-Editor/Wysiwyg editor for Angular.js. `💤 Inactive`
 * [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) ⭐ 1,855 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-08 - An Angular (>=2) component for the Quill Rich Text Editor.
 * [angular-editor](https://github.com/kolkov/angular-editor) ⭐ 720 | 🐛 69 | 🌐 TypeScript | 📅 2026-08-17 - A simple native WYSIWYG editor component for Angular 6 -19+
 * [ngx-editor](https://github.com/sibiraj-s/ngx-editor) ⭐ 501 | 🐛 50 | 🌐 TypeScript | 📅 2025-10-19 - Rich Text Editor for Angular using ProseMirror)
@@ -89,21 +89,21 @@ Editors for your Angular-based project.
 * [domternal](https://github.com/domternal/domternal) ⭐ 198 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-22 - Lightweight, extensible rich text editor toolkit with native Angular components, built-in toolbar and theme, and full table support.
 * [ngx-summernote](https://github.com/lula/ngx-summernote) ⭐ 106 | 🐛 56 | 🌐 TypeScript | 📅 2025-05-23 - Summernote wysiwyg editor for Angular.
 * [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) ⭐ 55 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-09 - An official CKEditor 4 rich text editor component for Angular 2+. `💤 Inactive`
-* [jodit-angular](https://github.com/jodit/jodit-angular) ⭐ 48 | 🐛 29 | 🌐 TypeScript | 📅 2024-03-26 - Angular wrapper around Jodit to make it easier to use in a Angular. `💤 Inactive`
+* [jodit-angular](https://github.com/jodit/jodit-angular) ⭐ 48 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-23 - Angular wrapper around Jodit to make it easier to use in a Angular. `💤 Inactive`
 * [angular-froala-wysiwyg](https://github.com/froala/angular-froala-wysiwyg) ⭐ 3 | 🐛 197 | 🌐 TypeScript | 📅 2026-08-19 `$ Non-Free` - Angular 4 to Angular 9 bindings for Froala WYSIWYG Editor.
 
 ## For React
 
 Editors for your React-based project.
 
-* [Slate JS](https://github.com/ianstormtaylor/slate) ⭐ 31,747 | 🐛 656 | 🌐 TypeScript | 📅 2026-08-18 - A completely customizable framework.
-* [lexical](https://github.com/facebook/lexical) ⭐ 23,784 | 🐛 341 | 🌐 TypeScript | 📅 2026-08-21- An extensible text editor framework, successor to [Draft.js](https://github.com/facebook/draft-js) ⚠️ Archived by Meta.
+* [Slate JS](https://github.com/ianstormtaylor/slate) ⭐ 31,746 | 🐛 656 | 🌐 TypeScript | 📅 2026-08-18 - A completely customizable framework.
+* [lexical](https://github.com/facebook/lexical) ⭐ 23,790 | 🐛 339 | 🌐 TypeScript | 📅 2026-08-24- An extensible text editor framework, successor to [Draft.js](https://github.com/facebook/draft-js) ⚠️ Archived by Meta.
 * [Draft.js](https://github.com/facebookarchive/draft-js) ⚠️ Archived - A JavaScript rich text editor framework, built for React and backed by an immutable model. `⛔ Deprecated`
-* [Plate](https://github.com/udecode/plate) ⭐ 16,525 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-23 - A rich-text editor based on slate.js powered by AI.Easily build a Notion-like editor.
-* [Puck](https://github.com/puckeditor/puck) ⭐ 13,186 | 🐛 193 | 🌐 TypeScript | 📅 2026-08-21 -  Embeddable visual editor for creating your own page builder.
-* [BlockNote](https://github.com/TypeCellOS/BlockNote) ⭐ 10,113 | 🐛 187 | 🌐 TypeScript | 📅 2026-08-21 - Block-based editor based on ProseMirror and TipTap, meant to be easier to set up and learn.
+* [Plate](https://github.com/udecode/plate) ⭐ 16,527 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-24 - A rich-text editor based on slate.js powered by AI.Easily build a Notion-like editor.
+* [Puck](https://github.com/puckeditor/puck) ⭐ 13,188 | 🐛 193 | 🌐 TypeScript | 📅 2026-08-21 -  Embeddable visual editor for creating your own page builder.
+* [BlockNote](https://github.com/TypeCellOS/BlockNote) ⭐ 10,117 | 🐛 188 | 🌐 TypeScript | 📅 2026-08-24 - Block-based editor based on ProseMirror and TipTap, meant to be easier to set up and learn.
 * [react-quill](https://github.com/zenoamaro/react-quill) ⭐ 7,011 | 🐛 433 | 🌐 JavaScript | 📅 2025-02-22 - A Quill component for React. `💤 Inactive`
-* [Plasmic](https://github.com/plasmicapp/plasmic) ⭐ 6,968 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-23 - A WYSIWYG visual builder that lets you drag and drop React components.
+* [Plasmic](https://github.com/plasmicapp/plasmic) ⭐ 6,969 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-24 - A WYSIWYG visual builder that lets you drag and drop React components.
 * [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) ⭐ 6,466 | 🐛 752 | 🌐 JavaScript | 📅 2024-12-01 - A Wysiwyg editor build on top of React and DraftJS. `💤 Inactive`
 * [react-rte](https://github.com/sstur/react-rte) ⭐ 2,863 | 🐛 205 | 🌐 JavaScript | 📅 2023-05-17 - Pure React rich text "WYSISYG" editor based on draft-js. `💤 Inactive`
 * [Alloy Editor](https://github.com/liferay/alloy-editor/) ⭐ 1,407 | 🐛 96 | 🌐 JavaScript | 📅 2023-10-24 - WYSIWYG editor based on CKEditor with completely rewritten UI. `💤 Inactive`
@@ -130,9 +130,9 @@ Editors for your Vue-based project.
 
 * [Vue2Editor](https://github.com/davidroyer/vue2-editor) ⭐ 2,513 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-11 - A text editor using Vue and Quill.
 * [tinymce-vue](https://github.com/tinymce/tinymce-vue) ⭐ 2,203 | 🐛 25 | 🌐 TypeScript | 📅 2026-05-17 - official TinyMCE wrapper for Vue.
-* [umo-editor](https://github.com/umodoc/editor) ⭐ 1,576 | 🐛 1 | 🌐 Vue | 📅 2026-08-20 - Umo Editor is an open-source document editor, based on Vue3.
+* [umo-editor](https://github.com/umodoc/editor) ⭐ 1,577 | 🐛 1 | 🌐 Vue | 📅 2026-08-20 - Umo Editor is an open-source document editor, based on Vue3.
 * [element-tiptap](https://github.com/Leecason/element-tiptap) ⭐ 1,534 | 🐛 163 | 🌐 TypeScript | 📅 2024-01-31 - A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue3 (1.0 for Vue2). `💤 Inactive`
-* [vue-quill](https://github.com/vueup/vue-quill) ⭐ 1,345 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-16 - VueQuill is a Component for building rich text editors, powered by Vue 3 and Quill. `💤 Inactive`
+* [vue-quill](https://github.com/vueup/vue-quill) ⭐ 1,347 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-23 - VueQuill is a Component for building rich text editors, powered by Vue 3 and Quill. `💤 Inactive`
 * [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) ⚠️ Archived - An html5 wysiwyg editor for Vue. `⛔ Deprecated`
 * [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) ⭐ 568 | 🐛 90 | 🌐 JavaScript | 📅 2022-12-07 - A lightweight WYSIWYG editor for Vue. `💤 Inactive`
 * [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) ⭐ 512 | 🐛 8 | 🌐 JavaScript | 📅 2024-04-22 - A visual low code form editor based on vue3. It can create forms with simple operations through the GUI interface. It has a flexible interaction. The PC depends on element-plus while the mobile depends on vant. There is a set of adapters to convert parameters into ones that can be recognized by both element-plus and vant. ![github star](https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor.svg?style=social\&label=Star) `💤 Inactive`
@@ -157,7 +157,7 @@ Editors for your Ruby-based project.
 
 WYSIWYG-alike editors
 
-* [GrapesJS](https://github.com/GrapesJS/grapesjs) ⭐ 26,156 | 🐛 38 | 🌐 TypeScript | 📅 2026-08-11 - An open-source, multi-purpose, Web Builder Framework.
+* [GrapesJS](https://github.com/GrapesJS/grapesjs) ⭐ 26,161 | 🐛 38 | 🌐 TypeScript | 📅 2026-08-11 - An open-source, multi-purpose, Web Builder Framework.
 * [Ory editor](https://github.com/react-page/react-page) ⭐ 9,545 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-28 - Next-gen, highly customizable content editor for the browser - based on React and Redux. WYSIWYG on steroids. `💤 Inactive`
 * [prosemirror](https://github.com/ProseMirror/prosemirror) ⚠️ Archived - The ProseMirror WYSIWYM editor.
 * [Sir Trevor](https://github.com/madebymany/sir-trevor-js) ⭐ 4,480 | 🐛 50 | 🌐 JavaScript | 📅 2024-06-10 - Rich content editing entirely re-imagined for the web. `💤 Inactive`
@@ -189,4 +189,4 @@ To the extent possible under law, Jeferson Mari has waived all copyright (2026) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
