@@ -15,7 +15,7 @@
             "last_commit": "2025-07-25T06:09:23Z",
             "owner": "slab",
             "repo": "quill",
-            "stars": 47322
+            "stars": 47320
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 145464445,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T14:52:53Z",
+            "last_commit": "2026-08-27T16:30:28Z",
             "owner": "ueberdosis",
             "repo": "tiptap",
-            "stars": 38180
+            "stars": 38181
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-04T11:55:32Z",
             "owner": "codex-team",
             "repo": "editor.js",
-            "stars": 31910
+            "stars": 31911
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 1529160,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T15:26:22Z",
+            "last_commit": "2026-08-27T16:58:44Z",
             "owner": "ether",
             "repo": "etherpad",
-            "stars": 18507
+            "stars": 18508
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-10-11T07:11:30Z",
             "owner": "wangeditor-team",
             "repo": "wangEditor",
-            "stars": 18364
+            "stars": 18363
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-17T01:15:12Z",
             "owner": "tinymce",
             "repo": "tinymce",
-            "stars": 16283
+            "stars": 16284
           }
         },
         {
@@ -147,10 +147,10 @@
             "archived": false,
             "id": 345922282,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T15:06:41Z",
+            "last_commit": "2026-08-27T17:39:58Z",
             "owner": "Milkdown",
             "repo": "milkdown",
-            "stars": 11862
+            "stars": 11863
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-27T06:28:02Z",
             "owner": "ckeditor",
             "repo": "ckeditor5",
-            "stars": 10482
+            "stars": 10483
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2022-11-05T18:32:06Z",
             "owner": "GetmeUK",
             "repo": "ContentTools",
-            "stars": 3980
+            "stars": 3979
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-26T06:00:52Z",
             "owner": "alohaeditor",
             "repo": "Aloha-Editor",
-            "stars": 2488
+            "stars": 2489
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2024-08-01T15:38:05Z",
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18014
+            "stars": 18015
           }
         },
         {
@@ -870,10 +870,10 @@
             "archived": false,
             "id": 318341089,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T04:14:05Z",
+            "last_commit": "2026-08-27T15:33:07Z",
             "owner": "facebook",
             "repo": "lexical",
-            "stars": 23802
+            "stars": 23805
           }
         },
         {
@@ -918,7 +918,7 @@
             "last_commit": "2026-08-27T06:55:56Z",
             "owner": "puckeditor",
             "repo": "puck",
-            "stars": 13212
+            "stars": 13216
           }
         },
         {
@@ -930,10 +930,10 @@
             "archived": false,
             "id": 465199957,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:10:43Z",
+            "last_commit": "2026-08-27T18:18:25Z",
             "owner": "TypeCellOS",
             "repo": "BlockNote",
-            "stars": 10125
+            "stars": 10127
           }
         },
         {
@@ -960,7 +960,7 @@
             "archived": false,
             "id": 335402819,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:35:54Z",
+            "last_commit": "2026-08-27T20:28:44Z",
             "owner": "plasmicapp",
             "repo": "plasmic",
             "stars": 6975
@@ -978,7 +978,7 @@
             "last_commit": "2024-12-01T09:52:19Z",
             "owner": "jpuri",
             "repo": "react-draft-wysiwyg",
-            "stars": 6466
+            "stars": 6467
           }
         },
         {
@@ -1709,7 +1709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:25.114Z",
+    "last_updated": "2026-08-27T20:43:21.509Z",
     "original_repository_info": {
       "archived": false,
       "id": 88997010,
@@ -1717,7 +1717,7 @@
       "last_commit": "2026-08-07T15:39:30Z",
       "owner": "JefMari",
       "repo": "awesome-wysiwyg-editors",
-      "stars": 3970
+      "stars": 3971
     },
     "original_repository_sha": "950d872bf48db27d61cb680452f7c742df2c0e06",
     "enhanced_repository": "enhansome/enhansome-wysiwyg-editors",
