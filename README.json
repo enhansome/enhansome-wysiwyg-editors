@@ -16,7 +16,8 @@
             "owner": "slab",
             "repo": "quill",
             "stars": 47320
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 145464445,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:30:28Z",
+            "last_commit": "2026-08-28T16:41:48Z",
             "owner": "ueberdosis",
             "repo": "tiptap",
-            "stars": 38181
-          }
+            "stars": 38191
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-04T11:55:32Z",
             "owner": "codex-team",
             "repo": "editor.js",
-            "stars": 31911
-          }
+            "stars": 31912
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 11829145,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T10:40:31Z",
+            "last_commit": "2026-08-28T09:12:31Z",
             "owner": "basecamp",
             "repo": "trix",
-            "stars": 20004
-          }
+            "stars": 20005
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 1529160,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:58:44Z",
+            "last_commit": "2026-08-28T15:41:41Z",
             "owner": "ether",
             "repo": "etherpad",
-            "stars": 18508
-          }
+            "stars": 18512
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2024-10-11T07:11:30Z",
             "owner": "wangeditor-team",
             "repo": "wangEditor",
-            "stars": 18363
-          }
+            "stars": 18364
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "tinymce",
             "repo": "tinymce",
             "stars": 16284
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "yabwe",
             "repo": "medium-editor",
             "stars": 16103
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "jaredreich",
             "repo": "pell",
             "stars": 12046
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -150,8 +159,9 @@
             "last_commit": "2026-08-27T17:39:58Z",
             "owner": "Milkdown",
             "repo": "milkdown",
-            "stars": 11863
-          }
+            "stars": 11864
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -162,11 +172,12 @@
             "archived": false,
             "id": 28964450,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T06:28:02Z",
+            "last_commit": "2026-08-28T10:59:05Z",
             "owner": "ckeditor",
             "repo": "ckeditor5",
             "stars": 10483
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "fex-team",
             "repo": "ueditor",
             "stars": 6767
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "ckeditor",
             "repo": "ckeditor4",
             "stars": 5820
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "froala",
             "repo": "wysiwyg-editor",
             "stars": 5401
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "fastmail",
             "repo": "Squire",
             "stars": 4908
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "sofish",
             "repo": "pen",
             "stars": 4795
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "jakiestfu",
             "repo": "Medium.js",
             "stars": 4379
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "GetmeUK",
             "repo": "ContentTools",
             "stars": 3979
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "guardian",
             "repo": "scribe",
             "stars": 3482
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "Voog",
             "repo": "wysihtml",
             "stars": 3349
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -312,11 +332,12 @@
             "archived": false,
             "id": 715366,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T06:00:52Z",
+            "last_commit": "2026-08-28T11:59:53Z",
             "owner": "alohaeditor",
             "repo": "Aloha-Editor",
             "stars": 2489
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "JiHong88",
             "repo": "suneditor",
             "stars": 2007
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "xdan",
             "repo": "jodit",
             "stars": 1955
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "bustle",
             "repo": "mobiledoc-kit",
             "stars": 1563
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "mduvall",
             "repo": "grande.js",
             "stars": 1299
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "samclarke",
             "repo": "SCEditor",
             "stars": 700
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "domternal",
             "repo": "domternal",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "front",
             "repo": "g-editor",
             "stars": 195
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "node-projects",
             "repo": "web-component-designer",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -451,7 +480,8 @@
             "owner": "adiptal",
             "repo": "studio",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -465,8 +495,9 @@
             "last_commit": "2026-08-21T06:08:04Z",
             "owner": "nexuls",
             "repo": "draftly",
-            "stars": 50
-          }
+            "stars": 51
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -477,11 +508,12 @@
             "archived": false,
             "id": 1101836363,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T08:52:07Z",
+            "last_commit": "2026-08-28T20:31:51Z",
             "owner": "JackUait",
             "repo": "blok",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -496,7 +528,8 @@
             "owner": "s00d",
             "repo": "on-codemerge",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         }
       ],
       "title": "Standalone"
@@ -516,8 +549,9 @@
             "last_commit": "2024-08-01T15:38:05Z",
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18015
-          }
+            "stars": 18017
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "summernote",
             "repo": "summernote",
             "stars": 11836
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "mycolorway",
             "repo": "simditor",
             "stars": 5004
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "Alex-D",
             "repo": "Trumbowyg",
             "stars": 4146
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "michelson",
             "repo": "Dante",
             "stars": 2041
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "raphaelcruzeiro",
             "repo": "jquery-notebook",
             "stars": 1679
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "kenshin54",
             "repo": "popline",
             "stars": 1054
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "steveathon",
             "repo": "bootstrap-wysiwyg",
             "stars": 670
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -637,7 +678,8 @@
             "owner": "im4aLL",
             "repo": "easyeditor",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -652,7 +694,8 @@
             "owner": "LacasuriOrtodoxe",
             "repo": "LOEditor",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         }
       ],
       "title": "jQuery Based"
@@ -673,7 +716,8 @@
             "owner": "textAngular",
             "repo": "textAngular",
             "stars": 3946
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -688,7 +732,8 @@
             "owner": "KillerCodeMonkey",
             "repo": "ngx-quill",
             "stars": 1856
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -703,7 +748,8 @@
             "owner": "kolkov",
             "repo": "angular-editor",
             "stars": 720
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -718,7 +764,8 @@
             "owner": "sibiraj-s",
             "repo": "ngx-editor",
             "stars": 501
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -733,7 +780,8 @@
             "owner": "tinymce",
             "repo": "tinymce-angular",
             "stars": 345
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -748,7 +796,8 @@
             "owner": "bampakoa",
             "repo": "ngx-wig",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -759,11 +808,12 @@
             "archived": false,
             "id": 133376841,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T12:14:26Z",
+            "last_commit": "2026-08-28T10:57:26Z",
             "owner": "ckeditor",
             "repo": "ckeditor5-angular",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -778,7 +828,8 @@
             "owner": "domternal",
             "repo": "domternal",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -793,7 +844,8 @@
             "owner": "lula",
             "repo": "ngx-summernote",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -808,7 +860,8 @@
             "owner": "ckeditor",
             "repo": "ckeditor4-angular",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -823,7 +876,8 @@
             "owner": "jodit",
             "repo": "jodit-angular",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -838,7 +892,8 @@
             "owner": "froala",
             "repo": "angular-froala-wysiwyg",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         }
       ],
       "title": "For Angular"
@@ -858,8 +913,9 @@
             "last_commit": "2026-08-26T06:35:54Z",
             "owner": "ianstormtaylor",
             "repo": "slate",
-            "stars": 31748
-          }
+            "stars": 31749
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -870,11 +926,12 @@
             "archived": false,
             "id": 318341089,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:33:07Z",
+            "last_commit": "2026-08-28T20:43:33Z",
             "owner": "facebook",
             "repo": "lexical",
-            "stars": 23805
-          }
+            "stars": 23807
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -889,7 +946,8 @@
             "owner": "facebookarchive",
             "repo": "draft-js",
             "stars": 22598
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -900,11 +958,12 @@
             "archived": false,
             "id": 225260962,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T03:43:02Z",
+            "last_commit": "2026-08-28T02:45:38Z",
             "owner": "udecode",
             "repo": "plate",
-            "stars": 16535
-          }
+            "stars": 16540
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -915,11 +974,12 @@
             "archived": false,
             "id": 648629873,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:55:56Z",
+            "last_commit": "2026-08-28T04:45:56Z",
             "owner": "puckeditor",
             "repo": "puck",
-            "stars": 13216
-          }
+            "stars": 13221
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -930,11 +990,12 @@
             "archived": false,
             "id": 465199957,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T18:18:25Z",
+            "last_commit": "2026-08-28T14:17:03Z",
             "owner": "TypeCellOS",
             "repo": "BlockNote",
-            "stars": 10127
-          }
+            "stars": 10131
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1010,8 @@
             "owner": "zenoamaro",
             "repo": "react-quill",
             "stars": 7011
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -960,11 +1022,12 @@
             "archived": false,
             "id": 335402819,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:28:44Z",
+            "last_commit": "2026-08-28T17:46:03Z",
             "owner": "plasmicapp",
             "repo": "plasmic",
-            "stars": 6975
-          }
+            "stars": 6978
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1042,8 @@
             "owner": "jpuri",
             "repo": "react-draft-wysiwyg",
             "stars": 6467
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1058,8 @@
             "owner": "sstur",
             "repo": "react-rte",
             "stars": 2863
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1009,7 +1074,8 @@
             "owner": "liferay",
             "repo": "alloy-editor",
             "stars": 1408
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1024,7 +1090,8 @@
             "owner": "globocom",
             "repo": "megadraft",
             "stars": 1223
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1039,7 +1106,8 @@
             "owner": "tinymce",
             "repo": "tinymce-react",
             "stars": 1067
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1122,8 @@
             "owner": "michelson",
             "repo": "dante2",
             "stars": 911
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1138,8 @@
             "owner": "bangle-io",
             "repo": "banger-editor",
             "stars": 675
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1080,11 +1150,12 @@
             "archived": false,
             "id": 133363789,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T11:21:12Z",
+            "last_commit": "2026-08-28T10:57:58Z",
             "owner": "ckeditor",
             "repo": "ckeditor5-react",
             "stars": 467
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1170,8 @@
             "owner": "mkhstar",
             "repo": "suneditor-react",
             "stars": 439
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1186,8 @@
             "owner": "jodit",
             "repo": "jodit-react",
             "stars": 407
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1202,8 @@
             "owner": "megahertz",
             "repo": "react-simple-wysiwyg",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1144,7 +1218,8 @@
             "owner": "hackerwins",
             "repo": "react-summernote",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1234,8 @@
             "owner": "rob-race",
             "repo": "react-trix",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1250,8 @@
             "owner": "joshfrench",
             "repo": "react-mobiledoc-editor",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1188,8 +1265,9 @@
             "last_commit": "2026-07-12T10:50:09Z",
             "owner": "novincode",
             "repo": "lexkit",
-            "stars": 115
-          }
+            "stars": 116
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1204,7 +1282,8 @@
             "owner": "ckeditor",
             "repo": "ckeditor4-react",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1219,7 +1298,8 @@
             "owner": "maifeeulasad",
             "repo": "lilac",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1234,7 +1314,8 @@
             "owner": "lyfie-org",
             "repo": "luthor",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1249,7 +1330,8 @@
             "owner": "froala",
             "repo": "react-froala-wysiwyg",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         }
       ],
       "title": "For React"
@@ -1270,7 +1352,8 @@
             "owner": "davidroyer",
             "repo": "vue2-editor",
             "stars": 2513
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1285,7 +1368,8 @@
             "owner": "tinymce",
             "repo": "tinymce-vue",
             "stars": 2203
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1299,8 +1383,9 @@
             "last_commit": "2026-08-27T05:56:45Z",
             "owner": "umodoc",
             "repo": "editor",
-            "stars": 1582
-          }
+            "stars": 1583
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1315,7 +1400,8 @@
             "owner": "Leecason",
             "repo": "element-tiptap",
             "stars": 1534
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1330,7 +1416,8 @@
             "owner": "vueup",
             "repo": "vue-quill",
             "stars": 1347
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1345,7 +1432,8 @@
             "owner": "PeakTai",
             "repo": "vue-html5-editor",
             "stars": 951
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1360,7 +1448,8 @@
             "owner": "chmln",
             "repo": "vue-wysiwyg",
             "stars": 568
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1374,8 +1463,9 @@
             "last_commit": "2024-04-22T12:54:43Z",
             "owner": "Liberty-liu",
             "repo": "Everright-formEditor",
-            "stars": 512
-          }
+            "stars": 511
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1386,11 +1476,12 @@
             "archived": false,
             "id": 153315904,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T11:22:47Z",
+            "last_commit": "2026-08-28T10:58:01Z",
             "owner": "ckeditor",
             "repo": "ckeditor5-vue",
             "stars": 386
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1405,7 +1496,8 @@
             "owner": "hanhdt",
             "repo": "vue-trix",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1420,7 +1512,8 @@
             "owner": "ckeditor",
             "repo": "ckeditor4-vue",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1435,7 +1528,8 @@
             "owner": "alidcast",
             "repo": "vue-mobiledoc-editor",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1450,7 +1544,8 @@
             "owner": "igorxut",
             "repo": "vue-ckeditor5",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1465,7 +1560,8 @@
             "owner": "froala",
             "repo": "vue-froala-wysiwyg",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         }
       ],
       "title": "For Vue"
@@ -1486,7 +1582,8 @@
             "owner": "jejacks0n",
             "repo": "mercury",
             "stars": 2629
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1501,7 +1598,8 @@
             "owner": "galetahub",
             "repo": "ckeditor",
             "stars": 2224
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1516,7 +1614,8 @@
             "owner": "volmer",
             "repo": "bootsy",
             "stars": 445
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1531,7 +1630,8 @@
             "owner": "Nerian",
             "repo": "bootstrap-wysihtml5-rails",
             "stars": 432
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1546,7 +1646,8 @@
             "owner": "froala",
             "repo": "wysiwyg-rails",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         }
       ],
       "title": "For Ruby"
@@ -1566,8 +1667,9 @@
             "last_commit": "2026-08-26T12:21:05Z",
             "owner": "GrapesJS",
             "repo": "grapesjs",
-            "stars": 26166
-          }
+            "stars": 26171
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1582,7 +1684,8 @@
             "owner": "react-page",
             "repo": "react-page",
             "stars": 9545
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1596,8 +1699,9 @@
             "last_commit": "2026-04-01T18:29:27Z",
             "owner": "ProseMirror",
             "repo": "prosemirror",
-            "stars": 8703
-          }
+            "stars": 8702
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1612,7 +1716,8 @@
             "owner": "madebymany",
             "repo": "sir-trevor-js",
             "stars": 4480
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1627,7 +1732,8 @@
             "owner": "bevacqua",
             "repo": "woofmark",
             "stars": 1630
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1642,7 +1748,8 @@
             "owner": "mervick",
             "repo": "emojionearea",
             "stars": 940
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1657,7 +1764,8 @@
             "owner": "inokawa",
             "repo": "rich-textarea",
             "stars": 418
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1672,7 +1780,8 @@
             "owner": "ld-x",
             "repo": "last-draft",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1687,7 +1796,8 @@
             "owner": "inokawa",
             "repo": "editate",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         },
         {
           "node_type": "item",
@@ -1702,14 +1812,15 @@
             "owner": "vm-mishchenko",
             "repo": "ngx-wall",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
         }
       ],
       "title": "WYSIWYG-alike"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:43:21.509Z",
+    "last_updated": "2026-08-28T21:14:38.237Z",
     "original_repository_info": {
       "archived": false,
       "id": 88997010,
@@ -1717,7 +1828,7 @@
       "last_commit": "2026-08-07T15:39:30Z",
       "owner": "JefMari",
       "repo": "awesome-wysiwyg-editors",
-      "stars": 3971
+      "stars": 3972
     },
     "original_repository_sha": "950d872bf48db27d61cb680452f7c742df2c0e06",
     "enhanced_repository": "enhansome/enhansome-wysiwyg-editors",
