@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility",
+            "homepage": "https://quilljs.com",
             "id": 5239185,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-07-25T06:09:23Z",
+            "open_issues": 658,
             "owner": "slab",
             "repo": "quill",
-            "stars": 47320
+            "stars": 47320,
+            "topics": [
+              "editor",
+              "quill",
+              "rich-text-editor",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -26,12 +36,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The headless rich text editor framework for web artisans.",
+            "homepage": "https://tiptap.dev",
             "id": 145464445,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:41:48Z",
+            "open_issues": 841,
             "owner": "ueberdosis",
             "repo": "tiptap",
-            "stars": 38191
+            "stars": 38192,
+            "topics": [
+              "editor",
+              "javascript",
+              "js",
+              "prosemirror",
+              "react",
+              "renderless-components",
+              "rich-text",
+              "tiptap",
+              "vue",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -42,12 +69,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A block-style editor with clean JSON output",
+            "homepage": "https://editorjs.io",
             "id": 47039255,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T11:55:32Z",
+            "open_issues": 701,
             "owner": "codex-team",
             "repo": "editor.js",
-            "stars": 31912
+            "stars": 31914,
+            "topics": [
+              "codex-editor",
+              "editor",
+              "javascript",
+              "json",
+              "redactor",
+              "typescript",
+              "ui",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -58,12 +99,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rich text editor for everyday writing",
+            "homepage": "https://trix-editor.org/",
             "id": 11829145,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:12:31Z",
+            "open_issues": 186,
             "owner": "basecamp",
             "repo": "trix",
-            "stars": 20005
+            "stars": 20005,
+            "topics": [
+              "custom-elements",
+              "editor",
+              "javascript",
+              "rich-text-editor",
+              "text-editor",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -74,12 +128,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Etherpad: A modern really-real-time collaborative document editor.",
+            "homepage": "https://etherpad.org",
             "id": 1529160,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:41:41Z",
+            "open_issues": 22,
             "owner": "ether",
             "repo": "etherpad",
-            "stars": 18512
+            "stars": 18513,
+            "topics": [
+              "collaboration",
+              "collaborative",
+              "collaborative-ai",
+              "collaborative-editing",
+              "collaborative-framework",
+              "collaborative-research",
+              "collaborative-writing",
+              "document",
+              "documents",
+              "etherpad",
+              "pdf-generation",
+              "rich-text-editor",
+              "video-conference",
+              "video-conferencing",
+              "web-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -90,12 +165,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器",
+            "homepage": "http://www.wangeditor.com/",
             "id": 26262860,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-11T07:11:30Z",
+            "open_issues": 881,
             "owner": "wangeditor-team",
             "repo": "wangEditor",
-            "stars": 18364
+            "stars": 18362,
+            "topics": [
+              "rich-text",
+              "rich-text-html-editor",
+              "typescript",
+              "wangeditor",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -106,12 +193,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular",
+            "homepage": "https://www.tiny.cloud",
             "id": 467471,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T01:15:12Z",
+            "open_issues": 415,
             "owner": "tinymce",
             "repo": "tinymce",
-            "stars": 16284
+            "stars": 16283,
+            "topics": [
+              "contenteditable",
+              "editor",
+              "javascript",
+              "rich-text-editor",
+              "tinymce",
+              "wysiwyg",
+              "wysiwyg-editor",
+              "wysiwyg-html-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -122,12 +223,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.",
+            "homepage": "https://yabwe.github.io/medium-editor/",
             "id": 10365411,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-24T07:27:48Z",
+            "open_issues": 359,
             "owner": "yabwe",
             "repo": "medium-editor",
-            "stars": 16103
+            "stars": 16103,
+            "topics": [
+              "contenteditable",
+              "editor",
+              "javascript",
+              "medium-editor",
+              "rich-text-editor",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -138,12 +251,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies",
+            "homepage": null,
             "id": 96689748,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-12T17:09:57Z",
+            "open_issues": 67,
             "owner": "jaredreich",
             "repo": "pell",
-            "stars": 12046
+            "stars": 12046,
+            "topics": [
+              "contenteditable",
+              "editor",
+              "javascript",
+              "rich-text-editor",
+              "text-editing",
+              "text-editor",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -154,12 +281,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍼 Plugin driven WYSIWYG  markdown editor framework.",
+            "homepage": "https://milkdown.dev",
             "id": 345922282,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:39:58Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:32:02Z",
+            "open_issues": 33,
             "owner": "Milkdown",
             "repo": "milkdown",
-            "stars": 11864
+            "stars": 11865,
+            "topics": [
+              "editor",
+              "gfm",
+              "javascript",
+              "markdown",
+              "markdown-editor",
+              "milkdown",
+              "prosemirror",
+              "remarkjs",
+              "rich-text-editor",
+              "typescript",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -170,12 +315,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
+            "homepage": "https://ckeditor.com",
             "id": 28964450,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:59:05Z",
+            "open_issues": 743,
             "owner": "ckeditor",
             "repo": "ckeditor5",
-            "stars": 10483
+            "stars": 10483,
+            "topics": [
+              "ckeditor",
+              "ckeditor5",
+              "contenteditable",
+              "javascript",
+              "rich-text-editor",
+              "rte",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -186,12 +345,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "rich text 富文本编辑器",
+            "homepage": "http://ueditor.baidu.com",
             "id": 6488049,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-06T03:47:12Z",
+            "open_issues": 1101,
             "owner": "fex-team",
             "repo": "ueditor",
-            "stars": 6767
+            "stars": 6767,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -202,12 +366,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.",
+            "homepage": "https://ckeditor.com/ckeditor-4",
             "id": 5482172,
             "language": "Rich Text Format",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-10T07:06:26Z",
+            "open_issues": 1184,
             "owner": "ckeditor",
             "repo": "ckeditor4",
-            "stars": 5820
+            "stars": 5820,
+            "topics": [
+              "ckeditor",
+              "ckeditor4",
+              "contenteditable",
+              "html-editor",
+              "rich-text-editor",
+              "rte",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -218,12 +395,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The next generation Javascript WYSIWYG HTML Editor.",
+            "homepage": "https://www.froala.com/wysiwyg-editor",
             "id": 16466496,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T10:29:53Z",
+            "open_issues": 425,
             "owner": "froala",
             "repo": "wysiwyg-editor",
-            "stars": 5401
+            "stars": 5401,
+            "topics": [
+              "froala",
+              "javascript",
+              "rich-text-editor",
+              "wysiwyg",
+              "wysiwyg-editor",
+              "wysiwyg-html-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -234,12 +423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The rich text editor for arbitrary HTML.",
+            "homepage": null,
             "id": 2669200,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T03:41:59Z",
+            "open_issues": 57,
             "owner": "fastmail",
             "repo": "Squire",
-            "stars": 4908
+            "stars": 4908,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -250,12 +444,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "enjoy live editing (+markdown)",
+            "homepage": "https://sofish.github.io/pen",
             "id": 12464962,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-09-23T14:27:04Z",
+            "open_issues": 65,
             "owner": "sofish",
             "repo": "pen",
-            "stars": 4795
+            "stars": 4795,
+            "topics": [
+              "editor",
+              "pen",
+              "pen-editor",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -266,12 +470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)",
+            "homepage": "http://jakiestfu.github.io/Medium.js/",
             "id": 11776741,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-06-27T19:41:36Z",
+            "open_issues": 79,
             "owner": "jakiestfu",
             "repo": "Medium.js",
-            "stars": 4379
+            "stars": 4379,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -282,12 +491,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JS library for building WYSIWYG editors for HTML content.",
+            "homepage": "http://getcontenttools.com",
             "id": 40436023,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-11-05T18:32:06Z",
+            "open_issues": 101,
             "owner": "GetmeUK",
             "repo": "ContentTools",
-            "stars": 3979
+            "stars": 3979,
+            "topics": [
+              "contenttools",
+              "wysiwyg-editors"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -298,12 +515,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED: A rich text editor framework for the web platform",
+            "homepage": "http://guardian.github.io/scribe/",
             "id": 14298729,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-03-08T04:04:14Z",
+            "open_issues": 107,
             "owner": "guardian",
             "repo": "scribe",
-            "stars": 3482
+            "stars": 3482,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -314,12 +536,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source rich text editor for the modern web",
+            "homepage": "http://wysihtml.com",
             "id": 12459565,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-06-22T15:05:10Z",
+            "open_issues": 180,
             "owner": "Voog",
             "repo": "wysihtml",
-            "stars": 3349
+            "stars": 3349,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -330,12 +557,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aloha Editor is a JavaScript content editing library",
+            "homepage": "http://www.alohaeditor.org",
             "id": 715366,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T11:59:53Z",
+            "open_issues": 145,
             "owner": "alohaeditor",
             "repo": "Aloha-Editor",
-            "stars": 2489
+            "stars": 2489,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -346,12 +578,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight and powerful WYSIWYG editor in vanilla JavaScript. No dependencies.",
+            "homepage": "https://suneditor.com",
             "id": 88146394,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:49:14Z",
+            "open_issues": 3,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2007
+            "stars": 2007,
+            "topics": [
+              "contenteditable",
+              "editor",
+              "html-editor",
+              "no-dependencies",
+              "rich-text-editor",
+              "suneditor",
+              "vanilla-javascript",
+              "web-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -362,12 +608,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jodit - Best WYSIWYG Editor for You",
+            "homepage": "https://xdsoft.net/jodit/",
             "id": 98203761,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T01:42:49Z",
+            "open_issues": 35,
             "owner": "xdan",
             "repo": "jodit",
-            "stars": 1955
+            "stars": 1955,
+            "topics": [
+              "ace-editor",
+              "editor",
+              "filebrowser",
+              "html",
+              "imageeditor",
+              "jodit",
+              "rich-text-editor",
+              "typescript",
+              "wysiwyg",
+              "wysiwyg-editor",
+              "wysiwyg-html-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -378,12 +641,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit for building WYSIWYG editors with Mobiledoc",
+            "homepage": "https://bustle.github.io/mobiledoc-kit/demo/",
             "id": 21694966,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-16T17:05:40Z",
+            "open_issues": 48,
             "owner": "bustle",
             "repo": "mobiledoc-kit",
-            "stars": 1563
+            "stars": 1563,
+            "topics": [
+              "javascript",
+              "mobiledoc",
+              "mobiledoc-editor",
+              "mobiledoc-kit",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -394,12 +668,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "It's a Medium at Starbucks. Pinky ring out.",
+            "homepage": null,
             "id": 12188838,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-09-18T16:04:01Z",
+            "open_issues": 25,
             "owner": "mduvall",
             "repo": "grande.js",
-            "stars": 1299
+            "stars": 1299,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -410,12 +689,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight HTML and BBCode WYSIWYG editor",
+            "homepage": "http://www.sceditor.com/",
             "id": 2067414,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-14T03:48:38Z",
+            "open_issues": 203,
             "owner": "samclarke",
             "repo": "SCEditor",
-            "stars": 700
+            "stars": 700,
+            "topics": [
+              "bbcode",
+              "bbcode-editor",
+              "contenteditable",
+              "editor",
+              "html-editor",
+              "javascript",
+              "sceditor",
+              "wysiwyg",
+              "wysiwyg-editor",
+              "wysiwyg-html-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -426,12 +721,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern, extensible rich text editor toolkit built on ProseMirror. Classic and Notion-style editors out of the box. Or go headless and assemble from 65+ tree-shakeable extensions. First-class wrappers for Angular, React, Vue, and Vanilla.",
+            "homepage": "https://domternal.dev",
             "id": 1136485156,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T20:16:01Z",
+            "open_issues": 1,
             "owner": "domternal",
             "repo": "domternal",
-            "stars": 200
+            "stars": 200,
+            "topics": [
+              "angular",
+              "angular-editor",
+              "editor",
+              "headless",
+              "headless-editor",
+              "javascript",
+              "mit-license",
+              "open-source",
+              "prosemirror",
+              "react",
+              "react-components",
+              "reactjs",
+              "rich-text",
+              "rich-text-editor",
+              "typescript",
+              "vanila-javascript",
+              "vue",
+              "vue3",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -442,12 +762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalist version of the Gutenberg editor",
+            "homepage": null,
             "id": 153463009,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-24T14:34:08Z",
+            "open_issues": 11,
             "owner": "front",
             "repo": "g-editor",
-            "stars": 195
+            "stars": 195,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -458,12 +783,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Designer for HTML Components or Pages in a WebComponent",
+            "homepage": "https://node-projects.github.io/web-component-designer-demo/index.html",
             "id": 216838080,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T04:36:38Z",
+            "open_issues": 52,
             "owner": "node-projects",
             "repo": "web-component-designer",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "designer",
+              "typescript",
+              "web-components",
+              "wysiwyg",
+              "wysiwyg-editor",
+              "wysiwyg-html-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -474,12 +811,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adiptal Studio is an iframe based self-host headless page builder to integrate in any cms/framework. It's feature-rich design and gives clean output to design responsive pages.",
+            "homepage": "https://adiptal.com/",
             "id": 571041178,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T20:43:31Z",
+            "open_issues": 0,
             "owner": "adiptal",
             "repo": "studio",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "adiptal",
+              "block-editor",
+              "block-style",
+              "blockeditor",
+              "contenteditable",
+              "editor",
+              "javascript",
+              "js",
+              "page-builder",
+              "pagebuilder",
+              "plugin",
+              "rich-text-editor",
+              "ui",
+              "wysiwyg",
+              "wysiwyg-editor",
+              "wysiwyg-html-editor",
+              "wysiwyg-js-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -490,12 +850,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern, intuitive Markdown editor built on the powerful CodeMirror 6 framework, designed to bring a truly What You See Is What You Get experience ",
+            "homepage": "https://draftly.nexul.in",
             "id": 1143519281,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T06:08:04Z",
+            "open_issues": 1,
             "owner": "nexuls",
             "repo": "draftly",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "codemirror6",
+              "cross-framework",
+              "customizable",
+              "extensible",
+              "lezer-parser",
+              "markdown",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -506,12 +879,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A block-based rich text editor for the web, like the one in Notion",
+            "homepage": "https://blokeditor.com",
             "id": 1101836363,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:31:51Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:21:58Z",
+            "open_issues": 15,
             "owner": "JackUait",
             "repo": "blok",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "angular",
+              "block-editor",
+              "contenteditable",
+              "editor",
+              "editorjs",
+              "headless",
+              "javascript",
+              "notion",
+              "react",
+              "rich-text-editor",
+              "text-editor",
+              "typescript",
+              "vue",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -522,12 +915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WYSIWYG editor for on-codemerge is a user-friendly interface that allows users to edit and view their code in real time, exactly as it will appear in the final product. ",
+            "homepage": "https://s00d.github.io/on-codemerge/",
             "id": 739784915,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-02T13:33:40Z",
+            "open_issues": 1,
             "owner": "s00d",
             "repo": "on-codemerge",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         }
@@ -544,12 +942,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.",
+            "homepage": "http://ui.toast.com/tui-editor",
             "id": 39759882,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-01T15:38:05Z",
+            "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 18017
+            "stars": 18017,
+            "topics": [
+              "chart",
+              "commonmark",
+              "documentation",
+              "editor",
+              "frontend",
+              "gfm",
+              "html",
+              "jquery",
+              "jquery-plugin",
+              "markdown",
+              "uml",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -560,12 +976,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Super Simple WYSIWYG Editor",
+            "homepage": "https://summernote.org",
             "id": 9709563,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-15T11:09:18Z",
+            "open_issues": 118,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11836
+            "stars": 11836,
+            "topics": [
+              "javascript",
+              "summernote",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -576,12 +1002,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Easy and Fast WYSIWYG Editor",
+            "homepage": "http://simditor.tower.im",
             "id": 15787723,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-25T03:52:36Z",
+            "open_issues": 32,
             "owner": "mycolorway",
             "repo": "simditor",
-            "stars": 5004
+            "stars": 5004,
+            "topics": [
+              "coffeescript",
+              "javascript",
+              "rich-text-editor",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -592,12 +1029,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight and amazing WYSIWYG JavaScript editor under 10kB",
+            "homepage": "https://alex-d.github.io/Trumbowyg",
             "id": 6010789,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-20T13:24:18Z",
+            "open_issues": 120,
             "owner": "Alex-D",
             "repo": "Trumbowyg",
-            "stars": 4146
+            "stars": 4146,
+            "topics": [
+              "jquery-plugin",
+              "lightweight",
+              "rich-text-editor",
+              "trumbowyg",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -608,12 +1057,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just another Medium wysiwyg editor clone",
+            "homepage": "https://dante-editor.dev",
             "id": 25341312,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-23T01:47:27Z",
+            "open_issues": 34,
             "owner": "michelson",
             "repo": "Dante",
-            "stars": 2041
+            "stars": 2041,
+            "topics": [
+              "collaborative-editing",
+              "editor",
+              "medium-clone",
+              "medium-editor",
+              "rich-text-editor",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -624,12 +1086,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern, simple and elegant WYSIWYG rich text editor.",
+            "homepage": null,
             "id": 16031396,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-04-13T20:20:10Z",
+            "open_issues": 56,
             "owner": "raphaelcruzeiro",
             "repo": "jquery-notebook",
-            "stars": 1679
+            "stars": 1679,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -640,12 +1107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Popline is an HTML5 Rich-Text-Editor Toolbar",
+            "homepage": "kenshin54.github.io/popline",
             "id": 10449816,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-12T02:37:06Z",
+            "open_issues": 13,
             "owner": "kenshin54",
             "repo": "popline",
-            "stars": 1054
+            "stars": 1054,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -656,12 +1128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny bootstrap-compatible WYSIWYG rich text editor",
+            "homepage": null,
             "id": 19204005,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-05-16T18:39:28Z",
+            "open_issues": 75,
             "owner": "steveathon",
             "repo": "bootstrap-wysiwyg",
-            "stars": 670
+            "stars": 670,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -672,12 +1149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Very lightweight and highly configurable rich text html editor",
+            "homepage": "http://habibhadi.com/lab/easyeditor/",
             "id": 46673323,
             "language": "HTML",
+            "license": null,
             "last_commit": "2018-07-25T10:59:37Z",
+            "open_issues": 3,
             "owner": "im4aLL",
             "repo": "easyeditor",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -688,12 +1170,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple WYSIWYG HTML editor with clean output and an easy-to-use JavaScript API — built with jQuery and avoiding the deprecated execCommand().",
+            "homepage": null,
             "id": 1265089953,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-01T04:52:21Z",
+            "open_issues": 0,
             "owner": "LacasuriOrtodoxe",
             "repo": "LOEditor",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         }
@@ -710,12 +1197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A radically powerful Text-Editor/Wysiwyg editor for Angular.js! Create multiple editor instances, two-way-bind HTML content, watch editors for changes and more!",
+            "homepage": null,
             "id": 13429048,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-09-20T14:09:53Z",
+            "open_issues": 540,
             "owner": "textAngular",
             "repo": "textAngular",
-            "stars": 3946
+            "stars": 3946,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -726,12 +1218,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular (>=2) components for the Quill Rich Text Editor",
+            "homepage": null,
             "id": 74593040,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T01:55:13Z",
+            "open_issues": 9,
             "owner": "KillerCodeMonkey",
             "repo": "ngx-quill",
-            "stars": 1856
+            "stars": 1856,
+            "topics": [
+              "angular",
+              "angular-x",
+              "ng",
+              "ngx-quill",
+              "quill",
+              "quill-editor",
+              "quilljs",
+              "renderer",
+              "rich-text",
+              "rich-text-editor",
+              "viewer",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -742,12 +1252,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple native WYSIWYG editor component for Angular 6 -20+",
+            "homepage": "https://angular-editor.kolkov.ru",
             "id": 135040007,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T17:27:37Z",
+            "open_issues": 69,
             "owner": "kolkov",
             "repo": "angular-editor",
-            "stars": 720
+            "stars": 720,
+            "topics": [
+              "angular",
+              "angular-editor",
+              "editor",
+              "rich-text",
+              "rich-text-editor",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -758,12 +1281,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖋️ Rich Text Editor for angular using ProseMirror",
+            "homepage": "https://sibiraj-s.github.io/ngx-editor/",
             "id": 104471422,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-10-19T11:18:30Z",
+            "open_issues": 50,
             "owner": "sibiraj-s",
             "repo": "ngx-editor",
-            "stars": 501
+            "stars": 501,
+            "topics": [
+              "angular",
+              "ngx-editor",
+              "prosemirror",
+              "rich-text-editor",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -774,12 +1308,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official TinyMCE Angular Component",
+            "homepage": null,
             "id": 117259799,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-22T04:16:11Z",
+            "open_issues": 22,
             "owner": "tinymce",
             "repo": "tinymce-angular",
-            "stars": 345
+            "stars": 345,
+            "topics": [
+              "angular",
+              "integration",
+              "tinymce"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -790,12 +1333,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular WYSIWYG HTML Rich Text Editor",
+            "homepage": null,
             "id": 49275951,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-28T10:52:35Z",
+            "open_issues": 0,
             "owner": "bampakoa",
             "repo": "ngx-wig",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "angular",
+              "text-editor",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -806,12 +1358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official CKEditor 5 Angular 5+ component.",
+            "homepage": "https://ckeditor.com/ckeditor-5",
             "id": 133376841,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:57:26Z",
+            "open_issues": 46,
             "owner": "ckeditor",
             "repo": "ckeditor5-angular",
-            "stars": 215
+            "stars": 215,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -822,12 +1379,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern, extensible rich text editor toolkit built on ProseMirror. Classic and Notion-style editors out of the box. Or go headless and assemble from 65+ tree-shakeable extensions. First-class wrappers for Angular, React, Vue, and Vanilla.",
+            "homepage": "https://domternal.dev",
             "id": 1136485156,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T20:16:01Z",
+            "open_issues": 1,
             "owner": "domternal",
             "repo": "domternal",
-            "stars": 200
+            "stars": 200,
+            "topics": [
+              "angular",
+              "angular-editor",
+              "editor",
+              "headless",
+              "headless-editor",
+              "javascript",
+              "mit-license",
+              "open-source",
+              "prosemirror",
+              "react",
+              "react-components",
+              "reactjs",
+              "rich-text",
+              "rich-text-editor",
+              "typescript",
+              "vanila-javascript",
+              "vue",
+              "vue3",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -838,12 +1420,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Summernote editor for Angular :sunglasses:",
+            "homepage": null,
             "id": 137036428,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-23T16:32:52Z",
+            "open_issues": 56,
             "owner": "lula",
             "repo": "ngx-summernote",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "angular",
+              "angular6",
+              "angular7",
+              "angular8",
+              "angular9",
+              "ngx-summernote",
+              "summernote",
+              "summernote-editor",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -854,12 +1451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official CKEditor 4 Angular component.",
+            "homepage": null,
             "id": 153247874,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-09T13:37:18Z",
+            "open_issues": 32,
             "owner": "ckeditor",
             "repo": "ckeditor4-angular",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -870,12 +1472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular wrapper for Jodit && Hey. Due to the fact that I do not use Angular in my projects, I cannot fix plugin errors in a timely manner. If you want the plugin to develop, send PR or better become a contributor",
+            "homepage": null,
             "id": 113567832,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T10:55:11Z",
+            "open_issues": 29,
             "owner": "jodit",
             "repo": "jodit-angular",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -886,12 +1493,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular 4, 5, 6, 7, 8 and 9 plugin for Froala WYSIWYG HTML Rich Text Editor.",
+            "homepage": "https://froala.com/wysiwyg-editor",
             "id": 63350161,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-19T11:39:02Z",
+            "open_issues": 197,
             "owner": "froala",
             "repo": "angular-froala-wysiwyg",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "angular2",
+              "angular4",
+              "angular5",
+              "angular6",
+              "froala",
+              "html-editor",
+              "rich-text-editor",
+              "text-editor",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         }
@@ -908,12 +1531,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A completely customizable framework for building rich text editors. (Currently in beta.)",
+            "homepage": "http://slatejs.org",
             "id": 61412022,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T06:35:54Z",
+            "open_issues": 650,
             "owner": "ianstormtaylor",
             "repo": "slate",
-            "stars": 31749
+            "stars": 31750,
+            "topics": [
+              "browser",
+              "editor",
+              "framework",
+              "javascript",
+              "react",
+              "rich-text",
+              "slate",
+              "text-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -924,12 +1561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+            "homepage": "https://lexical.dev",
             "id": 318341089,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:43:33Z",
+            "open_issues": 333,
             "owner": "facebook",
             "repo": "lexical",
-            "stars": 23807
+            "stars": 23809,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -940,12 +1582,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A React framework for building text editors.",
+            "homepage": "https://draftjs.org/",
             "id": 52113921,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-06T15:35:05Z",
+            "open_issues": 954,
             "owner": "facebookarchive",
             "repo": "draft-js",
-            "stars": 22598
+            "stars": 22598,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -956,12 +1603,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rich-text editor with AI and shadcn/ui",
+            "homepage": "https://platejs.org",
             "id": 225260962,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T02:45:38Z",
+            "open_issues": 14,
             "owner": "udecode",
             "repo": "plate",
-            "stars": 16540
+            "stars": 16541,
+            "topics": [
+              "ai",
+              "mcp",
+              "react",
+              "shadcn-ui",
+              "slate",
+              "typescript",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -972,12 +1632,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The visual editor for React.",
+            "homepage": "https://puckeditor.com",
             "id": 648629873,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T04:45:56Z",
+            "open_issues": 195,
             "owner": "puckeditor",
             "repo": "puck",
-            "stars": 13221
+            "stars": 13221,
+            "topics": [
+              "ai",
+              "builder",
+              "drag-and-drop",
+              "draganddrop",
+              "no-code",
+              "nocode",
+              "page-builder",
+              "pagebuilder",
+              "react",
+              "visual-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -988,12 +1664,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.",
+            "homepage": "https://www.blocknotejs.org/",
             "id": 465199957,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:17:03Z",
+            "open_issues": 190,
             "owner": "TypeCellOS",
             "repo": "BlockNote",
-            "stars": 10131
+            "stars": 10131,
+            "topics": [
+              "block-based",
+              "editor",
+              "javascript",
+              "notion",
+              "notion-editor",
+              "prosemirror",
+              "react",
+              "rich-text-editor",
+              "tiptap",
+              "typescript",
+              "wysiwyg",
+              "yjs"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1004,12 +1698,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Quill component for React.",
+            "homepage": "https://zenoamaro.github.io/react-quill",
             "id": 26318730,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-22T19:33:37Z",
+            "open_issues": 433,
             "owner": "zenoamaro",
             "repo": "react-quill",
-            "stars": 7011
+            "stars": 7011,
+            "topics": [
+              "editor",
+              "quill",
+              "react",
+              "rich-text-editor",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1020,12 +1725,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual builder for React. Build apps, websites, and content. Integrate with your codebase.",
+            "homepage": "https://www.plasmic.app",
             "id": 335402819,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:46:03Z",
+            "open_issues": 42,
             "owner": "plasmicapp",
             "repo": "plasmic",
-            "stars": 6978
+            "stars": 6978,
+            "topics": [
+              "builder",
+              "cms",
+              "design",
+              "design-systems",
+              "design-tools",
+              "drag-drop",
+              "frontend",
+              "gatsby",
+              "headless",
+              "headless-cms",
+              "jamstack",
+              "lowcode",
+              "nextjs",
+              "nocode",
+              "page-builder",
+              "react",
+              "ui-builder",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1036,12 +1765,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg",
+            "homepage": null,
             "id": 67361765,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-01T09:52:19Z",
+            "open_issues": 752,
             "owner": "jpuri",
             "repo": "react-draft-wysiwyg",
-            "stars": 6467
+            "stars": 6467,
+            "topics": [
+              "draft-js",
+              "javascript",
+              "reactjs",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1052,12 +1791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure React rich text WYSIWYG editor based on draft-js.",
+            "homepage": "https://react-rte.org",
             "id": 52491102,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2023-05-17T17:02:20Z",
+            "open_issues": 205,
             "owner": "sstur",
             "repo": "react-rte",
-            "stars": 2863
+            "stars": 2863,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1068,12 +1812,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WYSIWYG editor based on CKEditor with completely rewritten UI",
+            "homepage": "http://alloyeditor.com",
             "id": 22078229,
             "language": "JavaScript",
+            "license": "LGPL-3.0",
             "last_commit": "2023-10-24T11:17:52Z",
+            "open_issues": 96,
             "owner": "liferay",
             "repo": "alloy-editor",
-            "stars": 1408
+            "stars": 1408,
+            "topics": [
+              "wedeploy"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1084,12 +1835,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Megadraft is a Rich Text editor built on top of Facebook's Draft.JS featuring a nice default base of components and extensibility",
+            "homepage": "http://megadraft.io",
             "id": 54509932,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-13T18:03:59Z",
+            "open_issues": 25,
             "owner": "globocom",
             "repo": "megadraft",
-            "stars": 1223
+            "stars": 1223,
+            "topics": [
+              "contenteditable",
+              "draft-js",
+              "editor",
+              "hacktoberfest",
+              "javascript",
+              "megadraft",
+              "react",
+              "reactjs",
+              "rich-text-editor",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1100,12 +1868,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Offical TinyMCE React component",
+            "homepage": null,
             "id": 108977556,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-03T14:14:27Z",
+            "open_issues": 11,
             "owner": "tinymce",
             "repo": "tinymce-react",
-            "stars": 1067
+            "stars": 1067,
+            "topics": [
+              "editors",
+              "javascript",
+              "react",
+              "tinymce",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1116,12 +1895,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A complete rewrite of dante editor in draft-js",
+            "homepage": "https://michelson.github.io/dante2/",
             "id": 69834307,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-24T04:01:47Z",
+            "open_issues": 55,
             "owner": "michelson",
             "repo": "dante2",
-            "stars": 911
+            "stars": 911,
+            "topics": [
+              "draft-js",
+              "medium",
+              "reactjs",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1132,12 +1921,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(previously bangle-editor) Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io",
+            "homepage": null,
             "id": 216479696,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-02T23:55:17Z",
+            "open_issues": 1,
             "owner": "bangle-io",
             "repo": "banger-editor",
-            "stars": 675
+            "stars": 675,
+            "topics": [
+              "draftjs",
+              "editor",
+              "prosemirror",
+              "react",
+              "rich-text-editor",
+              "text-editor",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1148,12 +1951,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official CKEditor 5 React component.",
+            "homepage": "https://ckeditor.com/ckeditor-5",
             "id": 133363789,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:57:58Z",
+            "open_issues": 78,
             "owner": "ckeditor",
             "repo": "ckeditor5-react",
-            "stars": 467
+            "stars": 467,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1164,12 +1972,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React Component for SunEditor (WYSIWYG editor)",
+            "homepage": "http://suneditor.com/",
             "id": 202025653,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-09-05T02:46:32Z",
+            "open_issues": 59,
             "owner": "mkhstar",
             "repo": "suneditor-react",
-            "stars": 439
+            "stars": 439,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1180,12 +1993,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React wrapper for Jodit",
+            "homepage": "https://xdsoft.net/jodit/",
             "id": 113567886,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T09:29:33Z",
+            "open_issues": 103,
             "owner": "jodit",
             "repo": "jodit-react",
-            "stars": 407
+            "stars": 407,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1196,12 +2014,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and lightweight React WYSIWYG editor",
+            "homepage": "https://megahertz.github.io/react-simple-wysiwyg/",
             "id": 185682966,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-09T13:23:50Z",
+            "open_issues": 8,
             "owner": "megahertz",
             "repo": "react-simple-wysiwyg",
-            "stars": 251
+            "stars": 251,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1212,12 +2035,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Summernote (Super simple WYSIWYG editor) adaptation for react",
+            "homepage": "http://summernote.org",
             "id": 62090161,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-21T13:22:33Z",
+            "open_issues": 72,
             "owner": "hackerwins",
             "repo": "react-summernote",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "react",
+              "summernote"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1228,12 +2059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React wrapper around Trix editor from Basecamp + some lightweight features",
+            "homepage": null,
             "id": 44455046,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2025-01-03T16:32:23Z",
+            "open_issues": 10,
             "owner": "rob-race",
             "repo": "react-trix",
-            "stars": 220
+            "stars": 220,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1244,12 +2080,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Mobiledoc editor written with React and Mobiledoc-Kit.",
+            "homepage": null,
             "id": 60548672,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-12T17:06:10Z",
+            "open_issues": 12,
             "owner": "joshfrench",
             "repo": "react-mobiledoc-editor",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1260,12 +2101,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rich text editor built on top of Lexical",
+            "homepage": "https://lexkit.dev",
             "id": 1049916519,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-12T10:50:09Z",
+            "open_issues": 4,
             "owner": "novincode",
             "repo": "lexkit",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "react",
+              "rich-text-editor",
+              "text-editor",
+              "text-editor-react"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1276,12 +2127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official CKEditor 4 React component.",
+            "homepage": null,
             "id": 153247663,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-09T13:46:44Z",
+            "open_issues": 13,
             "owner": "ckeditor",
             "repo": "ckeditor4-react",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1292,12 +2148,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lilac: A smooth and elegant WYSIWYG editor for effortless writing",
+            "homepage": "https://maifeeulasad.github.io/lilac/",
             "id": 1030208250,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T14:42:58Z",
+            "open_issues": 0,
             "owner": "maifeeulasad",
             "repo": "lilac",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "contenteditable",
+              "framework-agnostic",
+              "framework-agnostic-design",
+              "rich-text",
+              "rich-text-editor",
+              "typescript",
+              "wysiwyg",
+              "wysiwyg-editor",
+              "wysiwyg-html-editor",
+              "wysiwyg-js-editor",
+              "wysiwyg-ts-editor",
+              "zero-dependency"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1308,12 +2182,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Star if this work helped you! Type-safe, TypeScript-first and Lexical Based rich text editor built for React and modern JS frameworks like Next.js and Astro.  Crafted with ❤️ by developers for developers who want control without chaos.",
+            "homepage": "https://www.luthor.fyi/",
             "id": 1155981400,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T10:20:26Z",
+            "open_issues": 0,
             "owner": "lyfie-org",
             "repo": "luthor",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "headless",
+              "lexical",
+              "luthor",
+              "react",
+              "rich-text-editor",
+              "text-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1324,12 +2210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React component for Froala WYSIWYG HTML Rich Text Editor.",
+            "homepage": "https://froala.com/wysiwyg-editor",
             "id": 66826712,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-19T11:26:41Z",
+            "open_issues": 171,
             "owner": "froala",
             "repo": "react-froala-wysiwyg",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         }
@@ -1346,12 +2237,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A text editor using Vue.js and Quill",
+            "homepage": null,
             "id": 75029275,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T08:48:10Z",
+            "open_issues": 6,
             "owner": "davidroyer",
             "repo": "vue2-editor",
-            "stars": 2513
+            "stars": 2513,
+            "topics": [
+              "editor",
+              "quill",
+              "quilljs",
+              "vue",
+              "vue2"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1362,12 +2264,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official TinyMCE Vue component",
+            "homepage": null,
             "id": 117259095,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-17T11:53:10Z",
+            "open_issues": 25,
             "owner": "tinymce",
             "repo": "tinymce-vue",
-            "stars": 2203
+            "stars": 2203,
+            "topics": [
+              "integration",
+              "tinymce",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1378,12 +2289,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Umo Editor is an open-source document editor based on Vue3 and Tiptap3, providing an online editing experience similar to Microsoft Word.",
+            "homepage": "https://www.umodoc.com",
             "id": 798599836,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-08-27T05:56:45Z",
+            "open_issues": 1,
             "owner": "umodoc",
             "repo": "editor",
-            "stars": 1583
+            "stars": 1583,
+            "topics": [
+              "docs-editor",
+              "document-editor",
+              "editor",
+              "office-edtior",
+              "online-office",
+              "richtext-editor",
+              "tiptap",
+              "umo-editor",
+              "vue3-editor",
+              "web-edtior",
+              "word-editor",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1394,12 +2323,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌸A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue3 (1.0 for Vue2)",
+            "homepage": "https://element-tiptap.vercel.app/",
             "id": 225157643,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-31T00:11:28Z",
+            "open_issues": 163,
             "owner": "Leecason",
             "repo": "element-tiptap",
-            "stars": 1534
+            "stars": 1534,
+            "topics": [
+              "editor",
+              "element-editor",
+              "element-ui",
+              "html-editor",
+              "i18n",
+              "prosemirror",
+              "rich-text",
+              "rich-text-editor",
+              "tiptap",
+              "tiptap-editor",
+              "vue",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1410,12 +2358,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rich Text Editor Component for Vue 3.",
+            "homepage": "https://vueup.github.io/vue-quill/",
             "id": 341436722,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T23:13:31Z",
+            "open_issues": 21,
             "owner": "vueup",
             "repo": "vue-quill",
-            "stars": 1347
+            "stars": 1346,
+            "topics": [
+              "editor",
+              "quill",
+              "text-editor",
+              "vue",
+              "vue-component",
+              "vue3",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1426,12 +2387,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An html5 wysiwyg editor for vue",
+            "homepage": null,
             "id": 61286619,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-21T22:19:31Z",
+            "open_issues": 111,
             "owner": "PeakTai",
             "repo": "vue-html5-editor",
-            "stars": 951
+            "stars": 951,
+            "topics": [
+              "html5-wysiwyg-editor",
+              "vue",
+              "vue-html5-editor",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1442,12 +2413,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight WYSIWYG HTML editor for Vue.js",
+            "homepage": "https://chmln.github.io/vue-wysiwyg/",
             "id": 81167543,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T17:27:21Z",
+            "open_issues": 90,
             "owner": "chmln",
             "repo": "vue-wysiwyg",
-            "stars": 568
+            "stars": 568,
+            "topics": [
+              "vue",
+              "wysiwyg",
+              "wysiwyg-editor",
+              "wysiwyg-html-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1458,12 +2439,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":guide_dog: Powerful lowcode|vue form editor,generator,designer,builder library. It provides an easy way to create custom forms. The project is extensible, easy to use and configure, and provides many commonly used form components and functions(vue可视化低代码表单设计器、表单编辑器、element-plus vant表单设计)",
+            "homepage": "https://everright.site/en/formEditor/introduction.html",
             "id": 616825689,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-22T12:54:43Z",
+            "open_issues": 8,
             "owner": "Liberty-liu",
             "repo": "Everright-formEditor",
-            "stars": 511
+            "stars": 511,
+            "topics": [
+              "designer",
+              "drag-and-drop",
+              "element-plus",
+              "everright",
+              "form",
+              "form-builder",
+              "form-designer",
+              "form-editor",
+              "form-generator",
+              "json-form",
+              "low-code",
+              "lowcode-editor",
+              "no-code",
+              "schema-form",
+              "validator",
+              "vant",
+              "vue",
+              "vue-form",
+              "vue3",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1474,12 +2481,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official CKEditor 5 Vue.js component.",
+            "homepage": "https://ckeditor.com/ckeditor-5",
             "id": 153315904,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:58:01Z",
+            "open_issues": 30,
             "owner": "ckeditor",
             "repo": "ckeditor5-vue",
-            "stars": 386
+            "stars": 386,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1490,12 +2502,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trix text editor component for Vue.js",
+            "homepage": "https://nicedoc.io/hanhdt/vue-trix",
             "id": 147621953,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-01-04T10:18:22Z",
+            "open_issues": 48,
             "owner": "hanhdt",
             "repo": "vue-trix",
-            "stars": 253
+            "stars": 253,
+            "topics": [
+              "text-editor",
+              "trix",
+              "vue-component",
+              "vue2",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1506,12 +2529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official CKEditor 4 Vue component",
+            "homepage": null,
             "id": 185394673,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-09T13:47:00Z",
+            "open_issues": 9,
             "owner": "ckeditor",
             "repo": "ckeditor4-vue",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1522,12 +2550,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A lightweight and customizable editor that allows you to embed rich content using Vuejs components.",
+            "homepage": null,
             "id": 76875818,
             "language": "HTML",
+            "license": null,
             "last_commit": "2018-03-08T00:45:16Z",
+            "open_issues": 2,
             "owner": "alidcast",
             "repo": "vue-mobiledoc-editor",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "mobiledoc-editor",
+              "ui-components",
+              "vue",
+              "vue-components",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1538,12 +2577,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Component CKEditor 5 for Vue 2.",
+            "homepage": null,
             "id": 131968512,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-01-27T12:38:21Z",
+            "open_issues": 1,
             "owner": "igorxut",
             "repo": "vue-ckeditor5",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "deprecated",
+              "unmaintained"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1554,12 +2601,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vue component for Froala WYSIWYG HTML Rich Text Editor.",
+            "homepage": "https://froala.com/wysiwyg-editor",
             "id": 85857922,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-19T11:47:00Z",
+            "open_issues": 88,
             "owner": "froala",
             "repo": "vue-froala-wysiwyg",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "froala-editor",
+              "rich-text-editor",
+              "vue-froala-wyswiyg",
+              "wysiwyg-editor",
+              "wysiwyg-html-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         }
@@ -1576,12 +2634,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mercury Editor: The Rails WYSIWYG editor that allows embedding full page editing capabilities directly inline.",
+            "homepage": "http://jejacks0n.github.com/mercury",
             "id": 1735128,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-15T16:11:30Z",
+            "open_issues": 74,
             "owner": "jejacks0n",
             "repo": "mercury",
-            "stars": 2629
+            "stars": 2629,
+            "topics": [
+              "deprecated-repo",
+              "javascript",
+              "mercury-editor",
+              "rails",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1592,12 +2661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ckeditor 4.x integration gem for rails",
+            "homepage": "https://ckeditor.com/ckeditor-4/",
             "id": 1942140,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-01-23T13:42:18Z",
+            "open_issues": 16,
             "owner": "galetahub",
             "repo": "ckeditor",
-            "stars": 2224
+            "stars": 2224,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1608,12 +2682,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Disclaimer: this project is no longer maintained.",
+            "homepage": null,
             "id": 4773417,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2018-04-18T14:37:58Z",
+            "open_issues": 6,
             "owner": "volmer",
             "repo": "bootsy",
-            "stars": 445
+            "stars": 445,
+            "topics": [
+              "bootstrap",
+              "rails",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1624,12 +2707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WYSIWYG editor for Bootstrap, integrated in Rails assets pipeline",
+            "homepage": null,
             "id": 3779506,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-08-05T02:04:09Z",
+            "open_issues": 5,
             "owner": "Nerian",
             "repo": "bootstrap-wysihtml5-rails",
-            "stars": 432
+            "stars": 432,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1640,12 +2728,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby gem for Froala jQuery WYSIWYG HTML Rich Text Editor.",
+            "homepage": "https://froala.com/wysiwyg-editor",
             "id": 16522799,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-08-19T10:38:37Z",
+            "open_issues": 16,
             "owner": "froala",
             "repo": "wysiwyg-rails",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         }
@@ -1662,12 +2755,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+            "homepage": "https://grapesjs.com",
             "id": 50146229,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T12:21:05Z",
+            "open_issues": 37,
             "owner": "GrapesJS",
             "repo": "grapesjs",
-            "stars": 26171
+            "stars": 26172,
+            "topics": [
+              "drag-and-drop",
+              "framework",
+              "no-code",
+              "nocode",
+              "page-builder",
+              "site-builder",
+              "site-generator",
+              "template-builder",
+              "ui-builder",
+              "web-builder",
+              "web-builder-framework",
+              "website-builder"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1678,12 +2789,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.",
+            "homepage": "https://react-page.github.io/",
             "id": 36502584,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-28T11:52:48Z",
+            "open_issues": 11,
             "owner": "react-page",
             "repo": "react-page",
-            "stars": 9545
+            "stars": 9545,
+            "topics": [
+              "editor",
+              "react",
+              "sites",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1694,12 +2815,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The ProseMirror WYSIWYM editor",
+            "homepage": "http://prosemirror.net/",
             "id": 40294964,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-01T18:29:27Z",
+            "open_issues": 111,
             "owner": "ProseMirror",
             "repo": "prosemirror",
-            "stars": 8702
+            "stars": 8702,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1710,12 +2836,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rich content editing entirely re-imagined for the web",
+            "homepage": "http://madebymany.github.io/sir-trevor-js/",
             "id": 5311424,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-10T11:39:09Z",
+            "open_issues": 50,
             "owner": "madebymany",
             "repo": "sir-trevor-js",
-            "stars": 4480
+            "stars": 4480,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1726,12 +2857,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":dog2: Barking up the DOM tree. A modular, progressive, and beautiful Markdown and HTML editor",
+            "homepage": "https://bevacqua.github.io/woofmark",
             "id": 32287371,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-16T02:19:48Z",
+            "open_issues": 34,
             "owner": "bevacqua",
             "repo": "woofmark",
-            "stars": 1630
+            "stars": 1630,
+            "topics": [
+              "front-end",
+              "javascript",
+              "markdown",
+              "markdown-editor",
+              "vanilla"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1742,12 +2884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emoji Picker Plugin for jQuery",
+            "homepage": "https://jsfiddle.net/mervick/0ypdxzwj/",
             "id": 42353360,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-10-14T14:03:07Z",
+            "open_issues": 115,
             "owner": "mervick",
             "repo": "emojionearea",
-            "stars": 940
+            "stars": 940,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1758,12 +2905,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small customizable textarea for React to colorize, highlight, decorate texts, offer autocomplete and much more.",
+            "homepage": "https://inokawa.github.io/rich-textarea/",
             "id": 352076475,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T02:05:12Z",
+            "open_issues": 8,
             "owner": "inokawa",
             "repo": "rich-textarea",
-            "stars": 418
+            "stars": 418,
+            "topics": [
+              "autocomplete",
+              "autosize",
+              "contenteditable",
+              "editor",
+              "highlight",
+              "input",
+              "react",
+              "react-component",
+              "richtext",
+              "tagging",
+              "textarea"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1774,12 +2938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":pen: a Draft.js editor",
+            "homepage": null,
             "id": 75240156,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-08T11:30:16Z",
+            "open_issues": 9,
             "owner": "ld-x",
             "repo": "last-draft",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1790,12 +2959,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An experimental, type-safe, framework agnostic and small (5kB+) contenteditable state manager.",
+            "homepage": "https://inokawa.github.io/editate/",
             "id": 758331628,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:12:05Z",
+            "open_issues": 50,
             "owner": "inokawa",
             "repo": "editate",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "alpine",
+              "angular",
+              "autocomplete",
+              "contenteditable",
+              "editor",
+              "headlessui",
+              "highlight",
+              "input",
+              "octane",
+              "preact",
+              "react",
+              "rich-text-editor",
+              "schema",
+              "solid",
+              "svelte",
+              "tagging",
+              "textarea",
+              "vue",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         },
@@ -1806,12 +3000,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helps build content editor for note-taking application",
+            "homepage": "https://vm-mishchenko.github.io/ngx-wall/",
             "id": 101189388,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T02:21:47Z",
+            "open_issues": 50,
             "owner": "vm-mishchenko",
             "repo": "ngx-wall",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "angular",
+              "angular-components",
+              "ngx-wall",
+              "rich-text-editor",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
         }
@@ -1820,15 +3026,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:14:38.237Z",
+    "last_updated": "2026-08-29T04:23:49.817Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome WYSIWYG Editors.",
+      "homepage": null,
       "id": 88997010,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-07T15:39:30Z",
+      "open_issues": 2,
       "owner": "JefMari",
       "repo": "awesome-wysiwyg-editors",
-      "stars": 3972
+      "stars": 3972,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "rich-text-editor",
+        "wysiwyg",
+        "wysiwyg-editor"
+      ]
     },
     "original_repository_sha": "950d872bf48db27d61cb680452f7c742df2c0e06",
     "enhanced_repository": "enhansome/enhansome-wysiwyg-editors",
