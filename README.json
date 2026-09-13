@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2025-07-25T06:09:23Z",
-            "open_issues": 659,
+            "open_issues": 658,
             "owner": "slab",
             "repo": "quill",
-            "stars": 47336,
+            "stars": 47338,
             "topics": [
               "editor",
               "quill",
@@ -45,7 +45,7 @@
             "open_issues": 846,
             "owner": "ueberdosis",
             "repo": "tiptap",
-            "stars": 38350,
+            "stars": 38362,
             "topics": [
               "editor",
               "javascript",
@@ -78,7 +78,7 @@
             "open_issues": 702,
             "owner": "codex-team",
             "repo": "editor.js",
-            "stars": 31940,
+            "stars": 31941,
             "topics": [
               "codex-editor",
               "editor",
@@ -137,7 +137,7 @@
             "open_issues": 28,
             "owner": "ether",
             "repo": "etherpad",
-            "stars": 18545,
+            "stars": 18546,
             "topics": [
               "collaboration",
               "collaborative",
@@ -202,7 +202,7 @@
             "open_issues": 417,
             "owner": "tinymce",
             "repo": "tinymce",
-            "stars": 16292,
+            "stars": 16294,
             "topics": [
               "contenteditable",
               "editor",
@@ -232,7 +232,7 @@
             "open_issues": 359,
             "owner": "yabwe",
             "repo": "medium-editor",
-            "stars": 16098,
+            "stars": 16099,
             "topics": [
               "contenteditable",
               "editor",
@@ -286,11 +286,11 @@
             "id": 345922282,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T18:27:53Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-12T18:05:21Z",
+            "open_issues": 37,
             "owner": "Milkdown",
             "repo": "milkdown",
-            "stars": 11907,
+            "stars": 11908,
             "topics": [
               "editor",
               "gfm",
@@ -324,7 +324,7 @@
             "open_issues": 739,
             "owner": "ckeditor",
             "repo": "ckeditor5",
-            "stars": 10494,
+            "stars": 10495,
             "topics": [
               "ckeditor",
               "ckeditor5",
@@ -587,7 +587,7 @@
             "open_issues": 1,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2010,
+            "stars": 2011,
             "topics": [
               "contenteditable",
               "editor",
@@ -614,7 +614,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-12T01:43:10Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "xdan",
             "repo": "jodit",
             "stars": 1960,
@@ -772,7 +772,7 @@
             "open_issues": 11,
             "owner": "front",
             "repo": "g-editor",
-            "stars": 195,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -885,7 +885,7 @@
             "id": 1101836363,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T18:02:53Z",
+            "last_commit": "2026-09-13T14:14:32Z",
             "open_issues": 0,
             "owner": "JackUait",
             "repo": "blok",
@@ -983,7 +983,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-15T11:09:18Z",
-            "open_issues": 123,
+            "open_issues": 126,
             "owner": "summernote",
             "repo": "summernote",
             "stars": 11839,
@@ -1039,7 +1039,7 @@
             "open_issues": 120,
             "owner": "Alex-D",
             "repo": "Trumbowyg",
-            "stars": 4147,
+            "stars": 4146,
             "topics": [
               "jquery-plugin",
               "lightweight",
@@ -1538,8 +1538,8 @@
             "id": 61412022,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T02:58:07Z",
-            "open_issues": 654,
+            "last_commit": "2026-09-13T05:21:11Z",
+            "open_issues": 653,
             "owner": "ianstormtaylor",
             "repo": "slate",
             "stars": 31748,
@@ -1568,11 +1568,11 @@
             "id": 318341089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T21:55:11Z",
-            "open_issues": 296,
+            "last_commit": "2026-09-12T14:26:51Z",
+            "open_issues": 297,
             "owner": "facebook",
             "repo": "lexical",
-            "stars": 23845,
+            "stars": 23848,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -1614,7 +1614,7 @@
             "open_issues": 15,
             "owner": "udecode",
             "repo": "plate",
-            "stars": 16574,
+            "stars": 16576,
             "topics": [
               "ai",
               "mcp",
@@ -1643,7 +1643,7 @@
             "open_issues": 199,
             "owner": "puckeditor",
             "repo": "puck",
-            "stars": 13300,
+            "stars": 13303,
             "topics": [
               "ai",
               "builder",
@@ -1672,10 +1672,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T09:44:30Z",
-            "open_issues": 219,
+            "open_issues": 220,
             "owner": "TypeCellOS",
             "repo": "BlockNote",
-            "stars": 10172,
+            "stars": 10174,
             "topics": [
               "block-based",
               "editor",
@@ -1689,6 +1689,46 @@
               "typescript",
               "wysiwyg",
               "yjs"
+            ]
+          },
+          "first_seen": "2026-08-28T21:14:38.237Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Plasmic",
+          "description": "A WYSIWYG visual builder that lets you drag and drop React components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Visual builder for React. Build apps, websites, and content. Integrate with your codebase.",
+            "homepage": "https://www.plasmic.app",
+            "id": 335402819,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-13T10:40:06Z",
+            "open_issues": 44,
+            "owner": "plasmicapp",
+            "repo": "plasmic",
+            "stars": 7009,
+            "topics": [
+              "builder",
+              "cms",
+              "design",
+              "design-systems",
+              "design-tools",
+              "drag-drop",
+              "frontend",
+              "gatsby",
+              "headless",
+              "headless-cms",
+              "jamstack",
+              "lowcode",
+              "nextjs",
+              "nocode",
+              "page-builder",
+              "react",
+              "ui-builder",
+              "wysiwyg"
             ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -1709,53 +1749,13 @@
             "open_issues": 433,
             "owner": "zenoamaro",
             "repo": "react-quill",
-            "stars": 7006,
+            "stars": 7005,
             "topics": [
               "editor",
               "quill",
               "react",
               "rich-text-editor",
               "wysiwyg-editor"
-            ]
-          },
-          "first_seen": "2026-08-28T21:14:38.237Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Plasmic",
-          "description": "A WYSIWYG visual builder that lets you drag and drop React components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Visual builder for React. Build apps, websites, and content. Integrate with your codebase.",
-            "homepage": "https://www.plasmic.app",
-            "id": 335402819,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-12T08:46:36Z",
-            "open_issues": 44,
-            "owner": "plasmicapp",
-            "repo": "plasmic",
-            "stars": 7005,
-            "topics": [
-              "builder",
-              "cms",
-              "design",
-              "design-systems",
-              "design-tools",
-              "drag-drop",
-              "frontend",
-              "gatsby",
-              "headless",
-              "headless-cms",
-              "jamstack",
-              "lowcode",
-              "nextjs",
-              "nocode",
-              "page-builder",
-              "react",
-              "ui-builder",
-              "wysiwyg"
             ]
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -2300,7 +2300,7 @@
             "open_issues": 1,
             "owner": "umodoc",
             "repo": "editor",
-            "stars": 1593,
+            "stars": 1594,
             "topics": [
               "docs-editor",
               "document-editor",
@@ -2369,7 +2369,7 @@
             "open_issues": 24,
             "owner": "vueup",
             "repo": "vue-quill",
-            "stars": 1347,
+            "stars": 1348,
             "topics": [
               "editor",
               "quill",
@@ -2763,10 +2763,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-26T12:21:05Z",
-            "open_issues": 37,
+            "open_issues": 40,
             "owner": "GrapesJS",
             "repo": "grapesjs",
-            "stars": 26217,
+            "stars": 26221,
             "topics": [
               "drag-and-drop",
               "framework",
@@ -3028,7 +3028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:42:59.747Z",
+    "last_updated": "2026-09-13T14:38:41.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WYSIWYG Editors.",
@@ -3037,7 +3037,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-07T15:39:30Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "JefMari",
       "repo": "awesome-wysiwyg-editors",
       "stars": 3978,
