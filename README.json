@@ -19,7 +19,7 @@
             "open_issues": 662,
             "owner": "slab",
             "repo": "quill",
-            "stars": 47369,
+            "stars": 47370,
             "topics": [
               "editor",
               "quill",
@@ -42,10 +42,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T15:22:30Z",
-            "open_issues": 833,
+            "open_issues": 836,
             "owner": "ueberdosis",
             "repo": "tiptap",
-            "stars": 38627,
+            "stars": 38637,
             "topics": [
               "editor",
               "javascript",
@@ -78,7 +78,7 @@
             "open_issues": 711,
             "owner": "codex-team",
             "repo": "editor.js",
-            "stars": 31964,
+            "stars": 31966,
             "topics": [
               "codex-editor",
               "editor",
@@ -137,7 +137,7 @@
             "open_issues": 25,
             "owner": "ether",
             "repo": "etherpad",
-            "stars": 18558,
+            "stars": 18559,
             "topics": [
               "collaboration",
               "collaborative",
@@ -202,7 +202,7 @@
             "open_issues": 421,
             "owner": "tinymce",
             "repo": "tinymce",
-            "stars": 16306,
+            "stars": 16307,
             "topics": [
               "contenteditable",
               "editor",
@@ -232,7 +232,7 @@
             "open_issues": 359,
             "owner": "yabwe",
             "repo": "medium-editor",
-            "stars": 16097,
+            "stars": 16099,
             "topics": [
               "contenteditable",
               "editor",
@@ -260,7 +260,7 @@
             "open_issues": 66,
             "owner": "jaredreich",
             "repo": "pell",
-            "stars": 12047,
+            "stars": 12049,
             "topics": [
               "contenteditable",
               "editor",
@@ -286,11 +286,11 @@
             "id": 345922282,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T22:47:04Z",
+            "last_commit": "2026-10-04T00:56:32Z",
             "open_issues": 40,
             "owner": "Milkdown",
             "repo": "milkdown",
-            "stars": 11972,
+            "stars": 11973,
             "topics": [
               "editor",
               "gfm",
@@ -321,7 +321,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T11:51:54Z",
-            "open_issues": 726,
+            "open_issues": 727,
             "owner": "ckeditor",
             "repo": "ckeditor5",
             "stars": 10501,
@@ -375,7 +375,7 @@
             "open_issues": 1184,
             "owner": "ckeditor",
             "repo": "ckeditor4",
-            "stars": 5821,
+            "stars": 5822,
             "topics": [
               "ckeditor",
               "ckeditor4",
@@ -694,8 +694,8 @@
             "id": 2067414,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-02-14T03:48:38Z",
-            "open_issues": 204,
+            "last_commit": "2026-10-04T03:41:11Z",
+            "open_issues": 200,
             "owner": "samclarke",
             "repo": "SCEditor",
             "stars": 701,
@@ -885,7 +885,7 @@
             "id": 1101836363,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T14:03:21Z",
+            "last_commit": "2026-10-04T15:25:34Z",
             "open_issues": 7,
             "owner": "JackUait",
             "repo": "blok",
@@ -986,7 +986,7 @@
             "open_issues": 126,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11843,
+            "stars": 11844,
             "topics": [
               "javascript",
               "summernote",
@@ -1292,8 +1292,8 @@
             "id": 104471422,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T14:50:43Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-04T03:34:15Z",
+            "open_issues": 6,
             "owner": "sibiraj-s",
             "repo": "ngx-editor",
             "stars": 501,
@@ -1573,11 +1573,11 @@
             "id": 318341089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:01:21Z",
-            "open_issues": 320,
+            "last_commit": "2026-10-04T03:22:43Z",
+            "open_issues": 319,
             "owner": "facebook",
             "repo": "lexical",
-            "stars": 23926,
+            "stars": 23927,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -1598,7 +1598,7 @@
             "open_issues": 954,
             "owner": "facebookarchive",
             "repo": "draft-js",
-            "stars": 22573,
+            "stars": 22572,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -1615,11 +1615,11 @@
             "id": 225260962,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T12:42:23Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-04T12:20:16Z",
+            "open_issues": 18,
             "owner": "udecode",
             "repo": "plate",
-            "stars": 16629,
+            "stars": 16632,
             "topics": [
               "ai",
               "mcp",
@@ -1644,11 +1644,11 @@
             "id": 648629873,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:50:30Z",
+            "last_commit": "2026-10-04T07:43:58Z",
             "open_issues": 202,
             "owner": "puckeditor",
             "repo": "puck",
-            "stars": 13416,
+            "stars": 13418,
             "topics": [
               "ai",
               "builder",
@@ -1677,7 +1677,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T17:50:55Z",
-            "open_issues": 206,
+            "open_issues": 208,
             "owner": "TypeCellOS",
             "repo": "BlockNote",
             "stars": 10262,
@@ -1714,7 +1714,7 @@
             "open_issues": 47,
             "owner": "plasmicapp",
             "repo": "plasmic",
-            "stars": 7064,
+            "stars": 7068,
             "topics": [
               "builder",
               "cms",
@@ -1754,7 +1754,7 @@
             "open_issues": 433,
             "owner": "zenoamaro",
             "repo": "react-quill",
-            "stars": 7005,
+            "stars": 7006,
             "topics": [
               "editor",
               "quill",
@@ -1807,7 +1807,7 @@
             "open_issues": 205,
             "owner": "sstur",
             "repo": "react-rte",
-            "stars": 2859,
+            "stars": 2858,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -2319,7 +2319,7 @@
             "open_issues": 1,
             "owner": "umodoc",
             "repo": "editor",
-            "stars": 1612,
+            "stars": 1611,
             "topics": [
               "docs-editor",
               "document-editor",
@@ -2785,7 +2785,7 @@
             "open_issues": 42,
             "owner": "GrapesJS",
             "repo": "grapesjs",
-            "stars": 26287,
+            "stars": 26290,
             "topics": [
               "drag-and-drop",
               "framework",
@@ -2819,7 +2819,7 @@
             "open_issues": 11,
             "owner": "react-page",
             "repo": "react-page",
-            "stars": 9537,
+            "stars": 9536,
             "topics": [
               "editor",
               "react",
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:50:54.512Z",
+    "last_updated": "2026-10-04T15:28:52.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WYSIWYG Editors.",
