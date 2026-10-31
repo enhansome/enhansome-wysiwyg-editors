@@ -19,7 +19,7 @@
             "open_issues": 664,
             "owner": "slab",
             "repo": "quill",
-            "stars": 47376,
+            "stars": 47377,
             "topics": [
               "editor",
               "quill",
@@ -42,10 +42,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-30T16:19:00Z",
-            "open_issues": 902,
+            "open_issues": 907,
             "owner": "ueberdosis",
             "repo": "tiptap",
-            "stars": 38905,
+            "stars": 38917,
             "topics": [
               "editor",
               "javascript",
@@ -78,7 +78,7 @@
             "open_issues": 701,
             "owner": "codex-team",
             "repo": "editor.js",
-            "stars": 31981,
+            "stars": 31985,
             "topics": [
               "codex-editor",
               "editor",
@@ -108,7 +108,7 @@
             "open_issues": 198,
             "owner": "basecamp",
             "repo": "trix",
-            "stars": 20014,
+            "stars": 20015,
             "topics": [
               "custom-elements",
               "editor",
@@ -134,10 +134,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T15:41:47Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "ether",
             "repo": "etherpad",
-            "stars": 18610,
+            "stars": 18613,
             "topics": [
               "collaboration",
               "collaborative",
@@ -232,7 +232,7 @@
             "open_issues": 356,
             "owner": "yabwe",
             "repo": "medium-editor",
-            "stars": 16099,
+            "stars": 16100,
             "topics": [
               "contenteditable",
               "editor",
@@ -286,11 +286,11 @@
             "id": 345922282,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T09:23:12Z",
+            "last_commit": "2026-10-31T01:53:34Z",
             "open_issues": 44,
             "owner": "Milkdown",
             "repo": "milkdown",
-            "stars": 12031,
+            "stars": 12034,
             "topics": [
               "editor",
               "gfm",
@@ -321,10 +321,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T15:54:17Z",
-            "open_issues": 706,
+            "open_issues": 707,
             "owner": "ckeditor",
             "repo": "ckeditor5",
-            "stars": 10520,
+            "stars": 10522,
             "topics": [
               "ckeditor",
               "ckeditor5",
@@ -545,7 +545,7 @@
             "open_issues": 180,
             "owner": "Voog",
             "repo": "wysihtml",
-            "stars": 3346,
+            "stars": 3345,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -584,10 +584,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-27T14:29:52Z",
-            "open_issues": 5,
+            "open_issues": 7,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2029,
+            "stars": 2030,
             "topics": [
               "cms",
               "contenteditable",
@@ -619,8 +619,8 @@
             "id": 98203761,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T11:01:28Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-31T01:50:00Z",
+            "open_issues": 20,
             "owner": "xdan",
             "repo": "jodit",
             "stars": 1969,
@@ -891,11 +891,11 @@
             "id": 1101836363,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T11:11:41Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-31T03:31:49Z",
+            "open_issues": 2,
             "owner": "JackUait",
             "repo": "blok",
-            "stars": 46,
+            "stars": 48,
             "topics": [
               "angular",
               "block-editor",
@@ -1035,7 +1035,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 17993,
+            "stars": 17991,
             "topics": [
               "chart",
               "commonmark",
@@ -1630,7 +1630,7 @@
             "open_issues": 7,
             "owner": "ianstormtaylor",
             "repo": "slate",
-            "stars": 31746,
+            "stars": 31747,
             "topics": [
               "browser",
               "editor",
@@ -1656,11 +1656,11 @@
             "id": 318341089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T16:44:56Z",
-            "open_issues": 447,
+            "last_commit": "2026-10-31T10:48:02Z",
+            "open_issues": 445,
             "owner": "meta",
             "repo": "lexical",
-            "stars": 23992,
+            "stars": 23990,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -1681,7 +1681,7 @@
             "open_issues": 954,
             "owner": "facebookarchive",
             "repo": "draft-js",
-            "stars": 22563,
+            "stars": 22562,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -1698,8 +1698,8 @@
             "id": 225260962,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T12:33:36Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-31T15:41:27Z",
+            "open_issues": 19,
             "owner": "udecode",
             "repo": "plate",
             "stars": 16681,
@@ -1731,7 +1731,7 @@
             "open_issues": 199,
             "owner": "puckeditor",
             "repo": "puck",
-            "stars": 13552,
+            "stars": 13568,
             "topics": [
               "ai",
               "builder",
@@ -1759,8 +1759,8 @@
             "id": 465199957,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T16:33:06Z",
-            "open_issues": 174,
+            "last_commit": "2026-10-30T18:29:29Z",
+            "open_issues": 176,
             "owner": "TypeCellOS",
             "repo": "BlockNote",
             "stars": 10350,
@@ -1793,7 +1793,7 @@
             "id": 335402819,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T19:13:23Z",
+            "last_commit": "2026-10-31T09:24:58Z",
             "open_issues": 45,
             "owner": "plasmicapp",
             "repo": "plasmic",
@@ -1864,7 +1864,7 @@
             "open_issues": 750,
             "owner": "jpuri",
             "repo": "react-draft-wysiwyg",
-            "stars": 6456,
+            "stars": 6455,
             "topics": [
               "draft-js",
               "javascript",
@@ -2092,7 +2092,7 @@
             "open_issues": 110,
             "owner": "jodit",
             "repo": "jodit-react",
-            "stars": 404,
+            "stars": 405,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -2391,7 +2391,7 @@
             "open_issues": 5,
             "owner": "davidroyer",
             "repo": "vue2-editor",
-            "stars": 2509,
+            "stars": 2508,
             "topics": [
               "editor",
               "quill",
@@ -3212,7 +3212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:48:12.682Z",
+    "last_updated": "2026-10-31T15:51:01.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WYSIWYG Editors.",
@@ -3224,7 +3224,7 @@
       "open_issues": 1,
       "owner": "JefMari",
       "repo": "awesome-wysiwyg-editors",
-      "stars": 3988,
+      "stars": 3989,
       "topics": [
         "awesome",
         "awesome-list",
