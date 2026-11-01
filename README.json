@@ -19,7 +19,7 @@
             "open_issues": 664,
             "owner": "slab",
             "repo": "quill",
-            "stars": 47377,
+            "stars": 47378,
             "topics": [
               "editor",
               "quill",
@@ -42,10 +42,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-30T16:19:00Z",
-            "open_issues": 907,
+            "open_issues": 910,
             "owner": "ueberdosis",
             "repo": "tiptap",
-            "stars": 38917,
+            "stars": 38925,
             "topics": [
               "editor",
               "javascript",
@@ -74,11 +74,11 @@
             "id": 47039255,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T19:08:20Z",
-            "open_issues": 701,
+            "last_commit": "2026-11-01T14:05:25Z",
+            "open_issues": 700,
             "owner": "codex-team",
             "repo": "editor.js",
-            "stars": 31985,
+            "stars": 31987,
             "topics": [
               "codex-editor",
               "editor",
@@ -134,10 +134,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T15:41:47Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "ether",
             "repo": "etherpad",
-            "stars": 18613,
+            "stars": 18615,
             "topics": [
               "collaboration",
               "collaborative",
@@ -174,7 +174,7 @@
             "open_issues": 881,
             "owner": "wangeditor-team",
             "repo": "wangEditor",
-            "stars": 18350,
+            "stars": 18348,
             "topics": [
               "rich-text",
               "rich-text-html-editor",
@@ -290,7 +290,7 @@
             "open_issues": 44,
             "owner": "Milkdown",
             "repo": "milkdown",
-            "stars": 12034,
+            "stars": 12037,
             "topics": [
               "editor",
               "gfm",
@@ -321,10 +321,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T15:54:17Z",
-            "open_issues": 707,
+            "open_issues": 706,
             "owner": "ckeditor",
             "repo": "ckeditor5",
-            "stars": 10522,
+            "stars": 10524,
             "topics": [
               "ckeditor",
               "ckeditor5",
@@ -354,7 +354,7 @@
             "open_issues": 1101,
             "owner": "fex-team",
             "repo": "ueditor",
-            "stars": 6758,
+            "stars": 6756,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -432,7 +432,7 @@
             "open_issues": 57,
             "owner": "fastmail",
             "repo": "Squire",
-            "stars": 4923,
+            "stars": 4924,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -583,11 +583,11 @@
             "id": 88146394,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T14:29:52Z",
+            "last_commit": "2026-11-01T10:34:06Z",
             "open_issues": 7,
             "owner": "JiHong88",
             "repo": "suneditor",
-            "stars": 2030,
+            "stars": 2029,
             "topics": [
               "cms",
               "contenteditable",
@@ -891,11 +891,11 @@
             "id": 1101836363,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T03:31:49Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-01T05:43:15Z",
+            "open_issues": 6,
             "owner": "JackUait",
             "repo": "blok",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "angular",
               "block-editor",
@@ -948,7 +948,7 @@
             "id": 302523028,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T03:11:15Z",
+            "last_commit": "2026-11-01T03:35:22Z",
             "open_issues": 0,
             "owner": "richtexteditor",
             "repo": "richtexteditor",
@@ -1035,7 +1035,7 @@
             "open_issues": 643,
             "owner": "nhn",
             "repo": "tui.editor",
-            "stars": 17991,
+            "stars": 17989,
             "topics": [
               "chart",
               "commonmark",
@@ -1069,7 +1069,7 @@
             "open_issues": 129,
             "owner": "summernote",
             "repo": "summernote",
-            "stars": 11844,
+            "stars": 11845,
             "topics": [
               "javascript",
               "summernote",
@@ -1095,7 +1095,7 @@
             "open_issues": 32,
             "owner": "mycolorway",
             "repo": "simditor",
-            "stars": 4996,
+            "stars": 4995,
             "topics": [
               "coffeescript",
               "javascript",
@@ -1630,7 +1630,7 @@
             "open_issues": 7,
             "owner": "ianstormtaylor",
             "repo": "slate",
-            "stars": 31747,
+            "stars": 31746,
             "topics": [
               "browser",
               "editor",
@@ -1656,11 +1656,11 @@
             "id": 318341089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T10:48:02Z",
-            "open_issues": 445,
+            "last_commit": "2026-11-01T13:14:05Z",
+            "open_issues": 460,
             "owner": "meta",
             "repo": "lexical",
-            "stars": 23990,
+            "stars": 23992,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -1681,7 +1681,7 @@
             "open_issues": 954,
             "owner": "facebookarchive",
             "repo": "draft-js",
-            "stars": 22562,
+            "stars": 22559,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:38.237Z"
@@ -1698,11 +1698,11 @@
             "id": 225260962,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T15:41:27Z",
+            "last_commit": "2026-11-01T16:53:46Z",
             "open_issues": 19,
             "owner": "udecode",
             "repo": "plate",
-            "stars": 16681,
+            "stars": 16685,
             "topics": [
               "ai",
               "mcp",
@@ -1728,10 +1728,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-29T09:37:02Z",
-            "open_issues": 199,
+            "open_issues": 200,
             "owner": "puckeditor",
             "repo": "puck",
-            "stars": 13568,
+            "stars": 13585,
             "topics": [
               "ai",
               "builder",
@@ -1763,7 +1763,7 @@
             "open_issues": 176,
             "owner": "TypeCellOS",
             "repo": "BlockNote",
-            "stars": 10350,
+            "stars": 10351,
             "topics": [
               "block-based",
               "editor",
@@ -1837,7 +1837,7 @@
             "open_issues": 433,
             "owner": "zenoamaro",
             "repo": "react-quill",
-            "stars": 7002,
+            "stars": 7001,
             "topics": [
               "editor",
               "quill",
@@ -2238,7 +2238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "lilac: A smooth and elegant WYSIWYG editor for effortless writing",
+            "description": "lilac: A smooth, modern WYSIWYG text editor built with TypeScript. Framework-agnostic core with adapters for React, Preact, Vue, Svelte, Solid, Angular, Lit, Qwik, Alpine.js, Ember, Astro, and Vanilla JS.",
             "homepage": "https://maifeeulasad.github.io/lilac/",
             "id": 1030208250,
             "language": "TypeScript",
@@ -2950,7 +2950,7 @@
             "open_issues": 37,
             "owner": "GrapesJS",
             "repo": "grapesjs",
-            "stars": 26357,
+            "stars": 26359,
             "topics": [
               "drag-and-drop",
               "framework",
@@ -3100,7 +3100,7 @@
             "open_issues": 5,
             "owner": "inokawa",
             "repo": "rich-textarea",
-            "stars": 419,
+            "stars": 420,
             "topics": [
               "autocomplete",
               "autosize",
@@ -3212,7 +3212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:51:01.498Z",
+    "last_updated": "2026-11-01T16:54:08.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WYSIWYG Editors.",
@@ -3224,7 +3224,7 @@
       "open_issues": 1,
       "owner": "JefMari",
       "repo": "awesome-wysiwyg-editors",
-      "stars": 3989,
+      "stars": 3990,
       "topics": [
         "awesome",
         "awesome-list",
